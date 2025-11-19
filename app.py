@@ -2,55 +2,67 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-# Load everything
+# -----------------------------
+# Load model and transformer
+# -----------------------------
 @st.cache_resource
-def load_all():
+def load_model_and_transformer():
     model = joblib.load("hotel_lr_model.pkl")
     ct = joblib.load("column_transformer.pkl")
-    df = pd.read_csv("hotel_bookings_demo.csv")
-    return model, ct, df
+    return model, ct
 
-model, ct, df = load_all()
+model, ct = load_model_and_transformer()
 
-# Beautiful UI
+# -----------------------------
+# Load the DEMO dataset (the small one you uploaded)
+# -----------------------------
+try:
+    df = pd.read_csv("hotel_bookings_demo.csv")   # ← CHANGED THIS LINE
+    st.success("Model + demo data loaded successfully!")
+except:
+    df = pd.DataFrame()
+    st.error("Demo file not found. Deploying... Refresh in 30 seconds.")
+
+# -----------------------------
+# Streamlit UI
+# -----------------------------
 st.set_page_config(page_title="Hotel Booking Predictor", page_icon="hotel", layout="centered")
 st.title("Hotel Booking Cancellation Predictor")
-st.success("Model & data loaded – Live and ready!")
+st.markdown("### Enter a customer name to check their booking & cancellation risk")
 
-st.markdown("### Search by customer name (1000 real bookings included)")
-name = st.text_input("Enter any part of the name", placeholder="e.g. Smith, Garcia, Chen, Patel, John")
+customer_name_input = st.text_input("Customer Name (e.g. Smith, Garcia, John, Patel)")
 
-if st.button("Search & Predict", type="primary"):
-    if not name.strip():
-        st.error("Please type something")
+if st.button("Check Booking & Predict Cancellation", type="primary"):
+    if not customer_name_input.strip():
+        st.error("Please enter a customer name.")
     else:
-        results = df[df['customer_name'].str.contains(name, case=False, na=False, regex=False)]
-        if results.empty:
-            st.warning("No match found. Try: Smith, Garcia, Johnson, Chen, Patel, Novak, Silva")
+        if df.empty:
+            st.warning("Data is still loading on Render. Please wait 30 seconds and try again.")
         else:
-            st.balloons()
-            st.write(f"**Found {len(results)} booking(s)!**")
-            for _, row in results.iterrows():
-                with st.expander(f"{row['customer_name']} – {row['hotel']} – {row['arrival_date_month']} {row['arrival_date_year']}"):
-                    # Predict
-                    X = row.drop('is_canceled', errors='ignore')
-                    X_trans = ct.transform(pd.DataFrame([X]))
-                    prob = model.predict_proba(X_trans)[0][1]
+            customer_rows = df[df['customer_name'].str.contains(customer_name_input, case=False, na=False)]
+            if customer_rows.empty:
+                st.error("No booking found. Try names like: Smith, Garcia, Johnson, Chen, Patel, Silva")
+            else:
+                st.success(f"Found {len(customer_rows)} booking(s)!")
+                st.balloons()
+                for _, row in customer_rows.iterrows():
+                    X = row.drop(labels=['is_canceled'], errors='ignore')
+                    X_df = pd.DataFrame([X])
+                    X_transformed = ct.transform(X_df)
+                    prob = model.predict_proba(X_transformed)[0][1]
 
-                    col1, col2 = st.columns(2)
-                    with col1:
-                        st.write("**Booking Details**")
-                        st.write(f"Hotel: {row['hotel']}")
-                        st.write(f"Arrival: {row['arrival_date_month']} {row['arrival_date_year']}")
-                        st.write(f"Guests: {int(row['adults'])}+{int(row.get('children',0))}+{int(row.get('babies',0))}")
-                        st.write(f"Price/night: ${row['adr']:.2f}")
-                    with col2:
-                        st.write("**Cancellation Risk**")
-                        st.progress(prob)
-                        st.metric("Probability", f"{prob*100:.1f}%")
-                        if prob > 0.6:
-                            st.error("HIGH RISK")
-                        elif prob > 0.3:
-                            st.warning("Moderate")
-                        else:
-                            st.success("Likely to arrive!")
+                    st.subheader("Booking Details")
+                    details = row[['hotel', 'arrival_date_year', 'arrival_date_month', 'adults', 'children',
+                                 'meal', 'market_segment', 'distribution_channel', 'reserved_room_type',
+                                 'assigned_room_type', 'adr']].to_frame().T
+                    st.dataframe(details)
+
+                    st.subheader("Cancellation Probability")
+                    st.progress(float(prob))
+                    st.metric("Cancellation Risk", f"{prob*100:.1f}%")
+                    if prob > 0.6:
+                        st.error("High cancellation risk!")
+                    elif prob > 0.3:
+                        st.warning("Moderate risk")
+                    else:
+                        st.success("Low risk – likely to arrive!")
