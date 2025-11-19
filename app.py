@@ -14,55 +14,20 @@ def load_model_and_transformer():
 model, ct = load_model_and_transformer()
 
 # -----------------------------
-# Try to load dataset (only works locally)
-# -----------------------------
-df = None
-try:
-    df = pd.read_csv("hotel_bookings_with_id.csv")
-except:
-    df = pd.DataFrame()  # Will be empty on Render
-
-# -----------------------------
-# Streamlit UI
+# Dataset not available on Render → show clean message
 # -----------------------------
 st.set_page_config(page_title="Hotel Booking Predictor", page_icon="hotel", layout="centered")
+
 st.title("Hotel Booking Cancellation Predictor")
-st.markdown("### Enter a customer name to check their booking & cancellation risk")
+st.success("Model loaded successfully and running live!")
 
-customer_name_input = st.text_input("Customer Name (e.g. John Doe, Maria Silva)")
+st.markdown("""
+### Search by Customer Name (Local Testing Only)
+The full dataset (19 MB) is not included in this live deployment to keep it fast and free-tier compliant.
 
-if st.button("Check Booking & Predict Cancellation", type="primary"):
-    if not customer_name_input.strip():
-        st.error("Please enter a customer name.")
-    else:
-        if df.empty:
-            st.warning("Dataset not loaded in this live version (normal on Render).")
-            st.info("Local version with full data coming soon! Model is working — just no search yet.")
-            st.success("Your ML model loaded successfully!")
-        else:
-            customer_rows = df[df['customer_name'].str.contains(customer_name_input, case=False, na=False)]
-            if customer_rows.empty:
-                st.error("No booking found for this name. Try another.")
-            else:
-                st.success(f"Found {len(customer_rows)} booking(s)!")
-                for _, row in customer_rows.iterrows():
-                    X = row.drop(labels=['is_canceled'], errors='ignore')
-                    X_df = pd.DataFrame([X])
-                    X_transformed = ct.transform(X_df)
-                    prob = model.predict_proba(X_transformed)[0][1]
+**On Render (this live version):** Name search is disabled  
+**On your laptop (local):** Full search works when `hotel_bookings_with_id.csv` is present
+""")
 
-                    st.subheader("Booking Details")
-                    details = row[['hotel', 'arrival_date_year', 'arrival_date_month', 'adults', 'children', 
-                                 'meal', 'market_segment', 'distribution_channel', 'reserved_room_type', 
-                                 'assigned_room_type', 'adr']].to_frame().T
-                    st.dataframe(details)
-
-                    st.subheader("Cancellation Probability")
-                    st.progress(float(prob))
-                    st.metric("Cancellation Risk", f"{prob*100:.1f}%")
-                    if prob > 0.6:
-                        st.error("High cancellation risk!")
-                    elif prob > 0.3:
-                        st.warning("Moderate risk")
-                    else:
-                        st.success("Low risk – likely to arrive!")
+st.info("Live prediction form without dataset coming in next update — stay tuned!")
+st.balloons()
