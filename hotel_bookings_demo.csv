@@ -1,0 +1,1001 @@
+hotel,is_canceled,lead_time,arrival_date_year,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,country,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,company,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,reservation_status_date,customer_id,customer_name
+Resort Hotel,0,203,2016,December,49,2,2,5,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,F,F,4,No Deposit,250.0,,0,Transient,66.8,0,0,Check-Out,2016-12-09,31047,Sameer Shah
+City Hotel,1,82,2015,July,29,16,0,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,76.5,0,0,Canceled,2015-07-16,40308,Sameer Shah
+City Hotel,0,25,2016,December,53,27,0,3,3,0.0,0,BB,BRA,Offline TA/TO,TA/TO,0,0,0,A,K,2,No Deposit,220.0,,0,Transient-Party,60.0,0,1,Check-Out,2016-12-30,103809,Diya Kapoor
+City Hotel,0,1,2016,March,11,9,0,1,1,0.0,0,BB,SWE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,95.0,0,0,Check-Out,2016-03-10,85245,Tanvi Jain
+City Hotel,0,70,2017,April,16,16,2,2,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,0,Check-Out,2017-04-20,110092,Sahil Bansal
+City Hotel,0,170,2017,April,17,27,0,3,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,130.5,0,0,Check-Out,2017-04-30,110723,Priya Nair
+City Hotel,1,21,2016,March,10,4,0,1,1,0.0,0,BB,SVN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,85.0,0,0,Canceled,2016-02-26,47891,Kunal Joshi
+City Hotel,0,102,2015,October,42,16,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-10-18,45093,Sahil Bansal
+Resort Hotel,0,55,2016,November,47,19,2,5,2,0.0,0,HB,GBR,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,314.0,,0,Transient,67.44,0,0,Check-Out,2016-11-26,30629,Kritika Rao
+Resort Hotel,0,222,2015,September,38,14,1,1,2,0.0,0,HB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,68.0,,0,Transient,80.0,0,0,Check-Out,2015-09-16,16987,Rohan Mehta
+Resort Hotel,0,120,2016,December,53,26,1,3,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient-Party,54.8,1,3,Check-Out,2016-12-30,31594,Amit Singh
+City Hotel,1,88,2017,February,7,17,0,2,2,0.0,0,SC,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.2,0,0,Canceled,2016-11-25,63774,Aisha Khan
+Resort Hotel,0,79,2015,December,52,24,2,5,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,156.0,,0,Transient,57.29,0,2,Check-Out,2015-12-31,3681,Neha Gupta
+City Hotel,0,41,2016,August,34,15,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,28.0,,0,Transient,76.5,0,0,Check-Out,2016-08-18,95444,Tanvi Jain
+City Hotel,1,239,2015,October,42,17,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2015-08-17,76986,Kritika Rao
+Resort Hotel,0,23,2017,April,16,20,0,2,2,0.0,0,BB,GBR,Groups,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,99.0,1,0,Check-Out,2017-04-22,35507,Priya Nair
+Resort Hotel,0,34,2016,December,50,9,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,48.0,0,1,Check-Out,2016-12-10,31054,Amit Singh
+City Hotel,1,38,2016,May,19,6,2,3,2,1.0,0,HB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,149.68,0,0,Canceled,2016-05-01,50841,Amit Singh
+City Hotel,0,160,2017,July,28,15,2,5,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,78.35,0,1,Check-Out,2017-07-22,116712,Aisha Khan
+Resort Hotel,0,32,2016,October,44,27,2,5,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,F,F,0,No Deposit,250.0,,0,Transient,91.85,1,0,Check-Out,2016-11-03,29763,Tanvi Jain
+Resort Hotel,0,56,2016,March,14,29,0,4,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,58.0,1,1,Check-Out,2016-04-02,22786,Riya Verma
+City Hotel,1,97,2015,October,41,5,1,3,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,140.0,0,0,Canceled,2015-07-03,44545,Amit Singh
+Resort Hotel,0,85,2017,April,16,19,1,4,2,0.0,0,BB,USA,Direct,Direct,0,0,0,E,E,2,No Deposit,,,0,Transient-Party,74.6,0,1,Check-Out,2017-04-24,35579,Priya Nair
+City Hotel,0,278,2017,July,30,26,0,4,3,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,165.6,0,2,Check-Out,2017-07-30,117230,Diya Kapoor
+City Hotel,1,175,2016,August,33,10,0,4,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,99.45,0,0,Canceled,2016-03-01,55426,Rohan Mehta
+City Hotel,1,26,2017,May,21,22,1,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,3.0,,0,Transient,128.0,0,0,Canceled,2017-04-26,68985,Amit Singh
+City Hotel,1,360,2015,October,42,12,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74696,Kunal Joshi
+Resort Hotel,1,378,2016,November,45,1,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,248.0,,0,Transient,46.0,0,0,Canceled,2016-10-18,9288,Neha Gupta
+City Hotel,0,32,2016,January,5,24,2,1,2,0.0,0,BB,ARG,Corporate,Corporate,0,0,0,A,A,1,No Deposit,38.0,,15,Transient-Party,64.0,0,0,Check-Out,2016-01-27,83367,Vivek Patel
+Resort Hotel,0,165,2015,December,53,30,0,4,1,0.0,0,Undefined,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,308.0,,122,Transient-Party,0.0,0,0,Check-Out,2016-01-03,3796,Neha Gupta
+City Hotel,0,4,2015,August,35,25,0,4,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Check-Out,2015-08-29,41958,Diya Kapoor
+City Hotel,1,179,2016,July,27,1,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,65.0,0,0,Canceled,2016-05-10,53956,Rohan Mehta
+City Hotel,0,349,2016,October,41,4,1,5,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,58.0,,162,Transient-Party,123.33,0,0,Check-Out,2016-10-10,99239,Amit Singh
+City Hotel,0,47,2016,February,8,18,0,3,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,90.3,0,0,Check-Out,2016-02-21,47481,Riya Verma
+City Hotel,0,237,2015,September,38,14,1,2,1,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,80.75,0,0,Check-Out,2015-09-17,77426,Diya Kapoor
+City Hotel,0,31,2016,September,40,27,0,1,2,0.0,0,BB,UGA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,126.0,0,0,Check-Out,2016-09-28,98389,Priya Nair
+City Hotel,0,158,2016,July,27,1,1,2,2,2.0,0,BB,BEL,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,168.3,0,1,Check-Out,2016-07-04,92417,Priya Nair
+City Hotel,0,25,2016,December,51,13,0,4,1,0.0,0,BB,EST,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,79.9,0,1,Check-Out,2016-12-17,103355,Riya Verma
+City Hotel,0,386,2016,October,44,23,2,0,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,115.0,0,1,Check-Out,2016-10-25,100296,Aisha Khan
+Resort Hotel,0,10,2016,September,38,13,0,2,2,0.0,0,BB,TUR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,109.0,0,0,Check-Out,2016-09-15,28054,Tanvi Jain
+City Hotel,0,76,2016,March,13,20,2,3,2,0.0,0,BB,AUT,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,9.0,,0,Transient,110.15,0,1,Check-Out,2016-03-25,48420,Sameer Shah
+City Hotel,0,42,2017,April,16,21,1,2,2,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,156.67,0,2,Check-Out,2017-04-24,110315,Rohan Mehta
+Resort Hotel,1,210,2016,August,35,22,3,8,2,0.0,0,HB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,192.73,0,2,Canceled,2016-02-15,7831,Aisha Khan
+City Hotel,0,4,2016,June,27,26,2,0,1,0.0,0,SC,NLD,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,113.0,0,1,Check-Out,2016-06-28,92074,Manish Yadav
+City Hotel,0,33,2016,May,23,29,2,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,42.0,,0,Transient,85.5,0,0,Check-Out,2016-06-01,90163,Amit Singh
+City Hotel,0,7,2016,December,51,17,1,1,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,78.0,0,1,Check-Out,2016-12-19,103412,Sameer Shah
+City Hotel,0,21,2015,December,51,17,0,2,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,40.0,0,Transient-Party,65.0,0,0,Check-Out,2015-12-19,82160,Sameer Shah
+City Hotel,1,160,2015,December,53,30,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,3.0,,111,Transient-Party,70.0,0,0,Canceled,2015-12-23,46455,Tanvi Jain
+Resort Hotel,0,28,2016,May,21,19,2,5,3,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,79.9,0,2,Check-Out,2016-05-26,24706,Riya Verma
+City Hotel,1,274,2015,July,29,18,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-06,75992,Kunal Joshi
+City Hotel,1,155,2017,July,29,17,1,1,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.1,0,1,Canceled,2017-03-08,72086,Amit Singh
+Resort Hotel,1,48,2016,September,40,30,2,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,107.0,0,0,Canceled,2016-08-14,8574,Arjun Sharma
+Resort Hotel,0,25,2016,January,3,14,0,2,2,2.0,0,BB,ESP,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,79.0,0,1,Check-Out,2016-01-16,20167,Kunal Joshi
+Resort Hotel,0,154,2016,July,29,11,1,2,2,0.0,0,BB,LUX,Offline TA/TO,TA/TO,0,0,0,A,B,0,No Deposit,327.0,,0,Transient,64.8,0,0,Check-Out,2016-07-14,25958,Riya Verma
+City Hotel,1,1,2015,December,53,29,0,4,2,0.0,1,BB,PRT,Groups,TA/TO,0,0,0,B,B,2,No Deposit,29.0,,0,Transient,72.5,0,2,Canceled,2015-12-29,82434,Vivek Patel
+City Hotel,1,364,2015,October,42,16,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,6.0,,0,Transient-Party,101.5,0,0,Canceled,2015-07-06,76200,Manish Yadav
+City Hotel,0,18,2016,December,51,11,1,0,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,378.0,,0,Transient-Party,80.0,0,0,Check-Out,2016-12-12,103202,Sahil Bansal
+City Hotel,1,21,2017,January,1,2,1,3,2,0.0,0,BB,KOR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,90.1,0,2,Canceled,2016-12-16,62224,Vivek Patel
+City Hotel,1,15,2017,February,7,17,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,19.0,,0,Transient,95.0,0,0,Canceled,2017-02-02,63758,Sameer Shah
+City Hotel,0,22,2017,March,11,16,2,5,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,85.0,,0,Transient,68.0,0,1,Check-Out,2017-03-23,108237,Sahil Bansal
+Resort Hotel,1,80,2017,August,34,26,2,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,40.0,,0,Contract,135.0,0,1,Canceled,2017-07-15,13785,Neha Gupta
+City Hotel,1,25,2015,December,50,8,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,19.0,,0,Transient,90.0,0,0,Canceled,2015-11-17,80577,Rohan Mehta
+Resort Hotel,0,164,2015,November,46,9,2,5,2,0.0,0,HB,FRA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,61.2,1,0,Check-Out,2015-11-16,3090,Tanvi Jain
+City Hotel,0,69,2016,May,20,14,2,1,3,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,159.3,0,1,Check-Out,2016-05-17,89172,Manish Yadav
+Resort Hotel,0,3,2016,May,21,20,0,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,F,0,No Deposit,240.0,,0,Transient,89.0,0,0,Check-Out,2016-05-22,24563,Neha Gupta
+Resort Hotel,1,206,2016,March,13,21,2,5,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,42.69,0,1,Canceled,2015-08-31,4611,Aisha Khan
+City Hotel,1,157,2017,May,18,1,1,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,3.0,,0,Transient,130.0,0,0,Canceled,2016-11-25,67423,Sahil Bansal
+City Hotel,0,30,2016,May,21,21,2,2,2,1.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,9.0,,0,Transient,133.58,0,0,Check-Out,2016-05-25,89825,Neha Gupta
+City Hotel,0,1,2017,May,19,9,0,1,1,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,10.0,,0,Transient,95.0,0,0,Check-Out,2017-05-10,111461,Sameer Shah
+Resort Hotel,0,32,2016,April,17,19,2,5,2,0.0,0,HB,GBR,Groups,Direct,0,0,0,D,D,0,No Deposit,273.0,,0,Transient-Party,38.22,0,0,Check-Out,2016-04-26,23544,Rohan Mehta
+Resort Hotel,0,53,2016,June,24,7,0,2,2,0.0,0,BB,CHN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,129.0,0,1,Check-Out,2016-06-09,25026,Manish Yadav
+Resort Hotel,1,246,2015,September,36,5,2,5,2,0.0,0,BB,,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,96.0,,0,Transient-Party,58.95,0,0,Canceled,2015-06-17,15283,Diya Kapoor
+City Hotel,1,304,2016,November,45,3,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,21.0,,0,Transient,89.0,0,0,Canceled,2016-02-01,60019,Vivek Patel
+City Hotel,0,127,2017,July,30,25,0,3,2,0.0,0,BB,AUT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,16.0,,0,Transient,98.1,0,0,Check-Out,2017-07-28,117069,Vivek Patel
+Resort Hotel,0,0,2017,January,3,17,0,1,1,0.0,0,BB,ESP,Direct,Direct,1,0,1,A,A,0,No Deposit,,,0,Transient,57.0,0,0,Check-Out,2017-01-18,21794,Sahil Bansal
+City Hotel,1,113,2016,September,37,7,1,4,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient,118.8,0,0,Canceled,2016-05-23,56577,Kunal Joshi
+City Hotel,0,272,2017,July,28,12,0,3,2,2.0,0,BB,AUT,Online TA,TA/TO,0,0,0,F,F,3,No Deposit,9.0,,0,Transient-Party,179.1,0,2,Check-Out,2017-07-15,116222,Riya Verma
+City Hotel,1,11,2016,November,45,5,0,1,2,1.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,150.0,0,1,Canceled,2016-10-28,60214,Priya Nair
+City Hotel,1,98,2015,November,48,23,1,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,0,Transient-Party,70.0,0,0,No-Show,2015-11-23,45856,Kunal Joshi
+City Hotel,1,292,2015,August,32,5,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75297,Arjun Sharma
+City Hotel,0,16,2016,December,50,4,2,0,2,1.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,118.8,0,1,Check-Out,2016-12-06,102859,Diya Kapoor
+City Hotel,0,70,2016,April,17,22,2,2,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,97.33,0,0,Check-Out,2016-04-26,87864,Arjun Sharma
+Resort Hotel,1,49,2015,July,30,20,3,6,2,0.0,0,FB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,15.0,,0,Transient,111.2,0,0,Canceled,2015-06-01,694,Tanvi Jain
+City Hotel,1,379,2015,October,44,31,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-07-23,76569,Kunal Joshi
+Resort Hotel,1,289,2017,July,30,25,0,4,2,1.0,0,BB,AUS,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,172.8,0,0,Canceled,2017-04-19,13067,Priya Nair
+Resort Hotel,1,108,2016,April,18,29,2,2,2,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,84.0,0,0,Canceled,2016-02-12,5549,Rohan Mehta
+Resort Hotel,0,128,2016,December,50,8,0,3,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,241.0,,0,Transient,36.04,0,2,Check-Out,2016-12-11,31127,Arjun Sharma
+Resort Hotel,0,18,2016,April,15,9,2,3,1,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,40.0,,0,Contract,33.3,0,0,Check-Out,2016-04-14,23121,Rohan Mehta
+Resort Hotel,1,46,2017,August,32,12,2,5,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,261.0,,0,Transient,212.0,0,0,Canceled,2017-07-12,13471,Sahil Bansal
+City Hotel,0,4,2015,August,33,11,0,5,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,90.0,0,2,Check-Out,2015-08-16,41163,Vivek Patel
+City Hotel,1,332,2017,April,16,22,1,1,2,1.0,0,BB,BEL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,125.1,0,0,Canceled,2016-06-07,66689,Riya Verma
+City Hotel,0,28,2017,February,7,13,1,2,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,28.0,,0,Transient,75.0,0,0,Check-Out,2017-02-16,105909,Amit Singh
+Resort Hotel,0,1,2015,October,42,13,0,1,2,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,240.0,,0,Transient,66.0,0,1,Check-Out,2015-10-14,17663,Amit Singh
+City Hotel,0,53,2015,October,41,9,1,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,94.5,0,0,Check-Out,2015-10-12,44776,Tanvi Jain
+Resort Hotel,1,260,2015,December,52,20,4,9,1,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,47.54,0,1,Canceled,2015-08-24,3610,Arjun Sharma
+Resort Hotel,0,166,2016,August,35,27,2,2,1,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,171.0,,0,Transient-Party,100.8,0,0,Check-Out,2016-08-31,27582,Neha Gupta
+City Hotel,0,76,2017,July,29,16,2,3,2,0.0,0,BB,DEU,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,108.0,0,0,Check-Out,2017-07-21,116561,Rohan Mehta
+City Hotel,0,1,2015,August,33,9,1,0,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,153.0,0,2,Check-Out,2015-08-10,41019,Manish Yadav
+City Hotel,0,172,2017,April,15,13,0,3,2,1.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,153.0,0,2,Check-Out,2017-04-16,109830,Riya Verma
+City Hotel,0,2,2016,March,13,20,2,4,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,220.0,,0,Transient-Party,85.0,0,0,Check-Out,2016-03-26,86105,Aisha Khan
+Resort Hotel,0,4,2017,June,23,6,0,3,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,1,0,3,A,A,0,No Deposit,146.0,,0,Transient,108.0,0,2,Check-Out,2017-06-09,31407,Sahil Bansal
+City Hotel,0,175,2017,August,35,31,1,3,2,0.0,0,BB,NLD,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,42.0,,0,Transient,86.85,0,2,Check-Out,2017-09-04,119472,Priya Nair
+City Hotel,1,97,2015,October,41,5,1,3,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,140.0,0,0,Canceled,2015-07-03,44556,Priya Nair
+Resort Hotel,0,2,2015,October,41,9,0,1,1,0.0,0,BB,PRT,Groups,Corporate,0,0,1,A,D,0,No Deposit,,86.0,0,Transient,48.0,0,0,Check-Out,2015-10-10,14281,Priya Nair
+Resort Hotel,0,8,2015,July,28,7,0,4,3,2.0,0,BB,ESP,Online TA,TA/TO,0,0,0,H,H,2,No Deposit,240.0,,0,Transient,193.0,0,1,Check-Out,2015-07-11,302,Sameer Shah
+Resort Hotel,1,468,2016,May,20,12,0,2,2,0.0,0,HB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,249.0,,0,Transient-Party,67.0,0,0,Canceled,2015-07-30,15755,Rohan Mehta
+Resort Hotel,0,36,2016,June,24,9,0,3,2,1.0,0,BB,ESP,Online TA,TA/TO,0,0,0,F,G,0,No Deposit,241.0,,0,Transient,153.03,1,1,Check-Out,2016-06-12,25115,Diya Kapoor
+City Hotel,1,262,2015,November,46,9,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,62.8,0,0,Canceled,2015-09-04,77142,Aisha Khan
+City Hotel,1,91,2016,March,12,18,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,20,Transient,75.0,0,0,Canceled,2016-02-03,48274,Arjun Sharma
+City Hotel,0,50,2016,April,16,12,0,3,2,1.0,0,HB,FRA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,164.25,0,2,Check-Out,2016-04-15,87266,Riya Verma
+City Hotel,0,32,2016,October,43,22,2,5,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,118.0,0,2,Check-Out,2016-10-29,100658,Neha Gupta
+City Hotel,1,19,2015,October,41,6,0,3,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,1,1,0,A,A,0,Non Refund,82.0,,0,Transient,80.0,0,0,Canceled,2015-09-17,77452,Arjun Sharma
+City Hotel,0,61,2016,April,18,30,1,1,2,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,A,B,1,No Deposit,85.0,,0,Transient,89.75,0,1,Check-Out,2016-05-02,88261,Amit Singh
+City Hotel,0,297,2017,July,29,21,2,2,2,1.0,0,BB,DEU,Direct,Direct,0,0,0,A,A,1,No Deposit,14.0,,0,Transient,102.1,0,0,Check-Out,2017-07-25,116901,Sahil Bansal
+City Hotel,0,131,2017,June,23,8,0,3,2,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,144.0,0,1,Check-Out,2017-06-11,113768,Manish Yadav
+Resort Hotel,0,228,2016,September,37,5,6,15,2,0.0,0,HB,DEU,Direct,Direct,0,0,1,D,D,0,No Deposit,,,0,Transient,88.0,0,1,Check-Out,2016-09-26,14758,Diya Kapoor
+City Hotel,1,330,2016,June,23,2,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,52359,Sahil Bansal
+City Hotel,1,53,2016,May,21,18,0,2,2,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,126.9,0,0,Canceled,2016-03-28,51437,Sahil Bansal
+City Hotel,0,144,2016,June,27,26,2,0,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,85.5,0,1,Check-Out,2016-06-28,92058,Riya Verma
+Resort Hotel,0,36,2015,December,53,27,2,0,2,0.0,0,HB,ESP,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,6.0,,0,Transient,55.4,1,0,Check-Out,2015-12-29,19725,Tanvi Jain
+City Hotel,1,313,2017,April,17,29,2,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,0,Transient,90.0,0,0,Canceled,2017-02-23,67298,Sameer Shah
+Resort Hotel,1,32,2016,April,17,19,2,5,2,0.0,0,HB,PRT,Groups,Direct,0,0,0,D,D,0,No Deposit,273.0,,0,Transient-Party,69.36,0,0,Canceled,2016-03-18,5274,Aisha Khan
+City Hotel,1,524,2016,December,51,15,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.8,0,0,Canceled,2015-10-21,61605,Priya Nair
+City Hotel,1,56,2017,March,12,21,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,86.0,,0,Transient,85.0,0,0,Canceled,2017-01-24,65085,Rohan Mehta
+City Hotel,1,138,2016,August,34,18,0,2,3,0.0,0,BB,ARE,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,142.2,0,0,Canceled,2016-08-18,55743,Manish Yadav
+City Hotel,0,156,2016,August,35,21,2,1,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,103.5,1,0,Check-Out,2016-08-24,95915,Diya Kapoor
+City Hotel,0,164,2015,October,40,2,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,19.0,,0,Transient-Party,100.0,0,0,Check-Out,2015-10-04,44332,Sahil Bansal
+Resort Hotel,0,8,2015,November,48,25,0,1,1,0.0,0,BB,,Corporate,Corporate,0,0,7,A,D,0,No Deposit,,204.0,0,Transient,35.0,0,1,Check-Out,2015-11-26,14106,Kritika Rao
+Resort Hotel,0,2,2016,November,47,18,0,2,2,0.0,0,HB,DEU,Direct,TA/TO,0,0,0,A,D,0,No Deposit,,,0,Transient,73.8,0,2,Check-Out,2016-11-20,30364,Amit Singh
+City Hotel,1,391,2016,July,31,27,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,65.0,0,0,Canceled,2015-12-09,54920,Amit Singh
+City Hotel,0,66,2016,November,48,24,0,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,28.0,,0,Transient,75.0,0,0,Check-Out,2016-11-27,102485,Manish Yadav
+City Hotel,0,256,2016,August,36,31,0,4,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,90.95,0,0,Check-Out,2016-09-04,56282,Arjun Sharma
+City Hotel,1,94,2016,August,35,23,0,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.9,0,0,Canceled,2016-05-22,55963,Kunal Joshi
+Resort Hotel,0,94,2017,February,7,13,1,3,3,0.0,0,HB,JAM,Groups,TA/TO,0,0,0,A,A,1,No Deposit,152.0,,0,Transient-Party,88.0,0,0,Check-Out,2017-02-17,33302,Diya Kapoor
+City Hotel,1,97,2015,October,41,5,1,3,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,140.0,0,0,Canceled,2015-07-03,44531,Amit Singh
+City Hotel,0,56,2016,March,10,3,1,3,2,0.0,0,BB,ESP,Groups,Corporate,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,72.0,0,0,Check-Out,2016-03-07,85093,Diya Kapoor
+City Hotel,1,191,2017,April,14,6,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,83.0,,0,Transient,88.4,0,0,Canceled,2016-09-28,65821,Neha Gupta
+Resort Hotel,1,9,2016,July,27,1,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,242.0,,0,Transient,169.0,0,1,No-Show,2016-07-01,6868,Kritika Rao
+City Hotel,0,81,2016,October,45,30,2,1,2,0.0,0,BB,IRL,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,79.8,0,0,Check-Out,2016-11-02,100901,Sameer Shah
+City Hotel,1,150,2016,January,4,18,1,4,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,19.0,,63,Transient-Party,80.0,0,0,Canceled,2015-12-14,46843,Priya Nair
+Resort Hotel,0,210,2017,August,33,19,2,5,3,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,261.0,,0,Transient,187.24,0,0,Check-Out,2017-08-26,39801,Arjun Sharma
+City Hotel,0,448,2017,June,24,17,2,1,2,0.0,0,BB,GBR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,229.0,,0,Transient-Party,112.67,0,1,Check-Out,2017-06-20,114401,Sameer Shah
+City Hotel,0,152,2016,July,29,10,2,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,3,No Deposit,9.0,,0,Transient,134.3,0,3,Check-Out,2016-07-14,93029,Sameer Shah
+City Hotel,0,14,2015,September,36,4,2,2,2,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,15.0,,0,Transient,113.0,1,3,Check-Out,2015-09-08,42409,Arjun Sharma
+City Hotel,1,135,2017,April,16,21,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,3.0,,0,Transient,90.0,0,0,Canceled,2016-12-07,66619,Diya Kapoor
+City Hotel,0,36,2016,September,40,28,0,3,2,0.0,0,BB,DEU,Groups,TA/TO,0,0,0,A,B,0,No Deposit,21.0,,0,Transient-Party,87.0,0,0,Check-Out,2016-10-01,98604,Kunal Joshi
+City Hotel,0,70,2016,January,5,27,2,5,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,27.0,,0,Transient,52.0,0,0,Check-Out,2016-02-03,83563,Manish Yadav
+Resort Hotel,0,236,2016,May,20,12,0,3,2,0.0,0,BB,GBR,Groups,TA/TO,0,0,0,A,I,0,No Deposit,315.0,,0,Transient-Party,54.0,1,0,Check-Out,2016-05-15,24298,Tanvi Jain
+City Hotel,0,1,2017,February,5,3,1,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.0,0,1,Check-Out,2017-02-06,105471,Riya Verma
+City Hotel,1,316,2017,May,19,10,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,123.3,0,1,Canceled,2017-01-09,68065,Sameer Shah
+City Hotel,0,200,2015,October,40,2,1,2,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,89.25,0,1,Check-Out,2015-10-05,44373,Manish Yadav
+City Hotel,1,277,2016,November,46,7,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,100.0,0,0,Canceled,2016-04-04,60440,Sameer Shah
+City Hotel,0,2,2015,August,33,9,1,0,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,67.5,0,2,Check-Out,2015-08-10,41018,Kunal Joshi
+Resort Hotel,0,242,2017,May,18,1,4,10,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,75.0,,0,Transient,84.15,0,1,Check-Out,2017-05-15,36388,Aisha Khan
+City Hotel,0,4,2016,February,7,7,2,2,1,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,76.22,1,1,Check-Out,2016-02-11,83846,Rohan Mehta
+City Hotel,1,56,2016,June,24,8,0,1,2,0.0,0,BB,PRT,Offline TA/TO,Corporate,0,0,0,A,A,0,No Deposit,191.0,,0,Transient-Party,120.0,0,0,Canceled,2016-06-02,52668,Diya Kapoor
+City Hotel,1,253,2016,September,40,26,1,2,1,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,2.0,0,0,Canceled,2016-01-18,57611,Arjun Sharma
+City Hotel,1,357,2017,May,21,24,0,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,109.8,0,1,Canceled,2017-05-10,69078,Tanvi Jain
+City Hotel,1,118,2017,June,23,10,0,1,2,0.0,0,BB,SWE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,160.0,0,0,Canceled,2017-04-26,70218,Kunal Joshi
+Resort Hotel,0,170,2017,July,29,16,5,10,2,0.0,0,HB,FRA,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,6.0,,0,Transient,163.8,0,0,Check-Out,2017-07-31,38950,Kunal Joshi
+Resort Hotel,0,207,2016,October,41,4,1,5,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,243.0,,0,Transient,70.0,0,0,Check-Out,2016-10-10,28547,Manish Yadav
+City Hotel,1,87,2017,April,15,15,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,95.0,0,0,Canceled,2017-01-18,66283,Vivek Patel
+City Hotel,1,37,2017,March,11,15,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,378.0,,0,Transient,110.0,0,0,Canceled,2017-02-06,64773,Vivek Patel
+City Hotel,0,110,2017,April,15,10,1,2,2,0.0,0,SC,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,99.0,0,1,Check-Out,2017-04-13,109604,Rohan Mehta
+Resort Hotel,0,0,2015,November,45,4,0,2,1,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,44.1,0,1,Check-Out,2015-11-06,2989,Rohan Mehta
+City Hotel,1,74,2015,September,38,18,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,0,Transient-Party,101.5,0,0,Canceled,2015-07-06,43529,Sameer Shah
+Resort Hotel,0,143,2017,March,10,5,2,5,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,D,E,0,No Deposit,177.0,,0,Transient,52.4,0,0,Check-Out,2017-03-12,34172,Kritika Rao
+City Hotel,0,2,2015,December,50,11,0,1,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,94.0,1,0,Check-Out,2015-12-12,46221,Priya Nair
+City Hotel,1,344,2016,June,25,16,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,53246,Neha Gupta
+City Hotel,1,43,2016,November,49,29,4,11,1,0.0,0,BB,AGO,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,74.8,0,1,Canceled,2016-11-14,61127,Arjun Sharma
+City Hotel,0,100,2017,August,31,1,2,5,2,0.0,0,SC,NOR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,125.0,0,0,Check-Out,2017-08-08,117791,Sameer Shah
+City Hotel,1,92,2015,July,27,1,2,4,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,76.5,0,2,Canceled,2015-06-23,40164,Neha Gupta
+City Hotel,1,215,2017,April,15,14,2,2,2,0.0,0,SC,CN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,110.0,0,1,Canceled,2016-10-31,66241,Riya Verma
+Resort Hotel,1,208,2016,April,17,19,2,5,2,0.0,0,HB,PRT,Groups,Direct,0,0,0,E,E,0,Non Refund,273.0,,0,Transient,60.3,0,0,Canceled,2016-03-18,5282,Sahil Bansal
+City Hotel,0,158,2017,March,13,27,1,1,2,0.0,0,BB,ISR,Groups,TA/TO,0,0,0,A,D,0,No Deposit,37.0,,0,Transient-Party,95.0,0,1,Check-Out,2017-03-29,108645,Aisha Khan
+Resort Hotel,1,78,2015,October,41,9,1,2,2,0.0,0,FB,ESP,Groups,TA/TO,0,0,0,A,A,0,Non Refund,134.0,,0,Transient,92.0,0,0,Canceled,2015-08-14,2421,Sahil Bansal
+Resort Hotel,0,49,2015,July,31,27,1,5,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,118.17,0,0,Check-Out,2015-08-02,15881,Sameer Shah
+Resort Hotel,0,0,2017,February,7,17,1,2,2,0.0,0,BB,DEU,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,76.0,0,0,Check-Out,2017-02-20,33432,Amit Singh
+City Hotel,0,133,2017,July,27,7,1,2,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,107.1,0,2,Check-Out,2017-07-10,115804,Tanvi Jain
+City Hotel,1,80,2017,January,3,20,0,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,93.6,0,0,Canceled,2017-01-04,62831,Diya Kapoor
+Resort Hotel,1,199,2016,May,19,2,1,1,2,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Canceled,2016-04-18,5634,Kritika Rao
+Resort Hotel,1,40,2016,July,30,22,2,4,2,0.0,0,BB,DZA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,194.0,0,0,Canceled,2016-06-12,7220,Amit Singh
+City Hotel,1,2,2016,November,45,2,0,2,1,0.0,0,BB,PRT,Aviation,Corporate,0,0,0,D,D,0,No Deposit,,153.0,0,Transient,94.0,0,0,Canceled,2016-11-02,59905,Amit Singh
+City Hotel,0,13,2016,March,14,27,2,2,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,138.0,,0,Transient,79.15,0,0,Check-Out,2016-03-31,86344,Manish Yadav
+City Hotel,0,5,2016,November,46,6,2,3,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,106.68,0,1,Check-Out,2016-11-11,101492,Kritika Rao
+City Hotel,1,153,2015,August,32,3,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2015-05-19,74971,Riya Verma
+City Hotel,0,54,2016,February,7,8,1,4,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,75.95,0,1,Check-Out,2016-02-13,47226,Riya Verma
+Resort Hotel,0,10,2017,February,7,12,1,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,48.0,0,1,Check-Out,2017-02-13,33148,Kritika Rao
+Resort Hotel,1,23,2016,August,32,4,0,3,2,1.0,0,HB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,242.0,,0,Transient,272.7,0,0,Canceled,2016-07-30,7437,Priya Nair
+City Hotel,0,235,2016,August,32,6,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,105.3,1,2,Check-Out,2016-08-08,55242,Manish Yadav
+City Hotel,0,242,2016,October,44,28,2,2,2,1.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,7.0,,0,Transient,95.13,0,1,Check-Out,2016-11-01,100860,Rohan Mehta
+City Hotel,1,185,2017,May,19,12,2,3,2,0.0,0,SC,AUT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,114.3,0,0,Canceled,2016-11-08,68194,Tanvi Jain
+City Hotel,1,16,2016,October,44,29,2,1,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,140.0,0,2,Canceled,2016-10-24,59679,Aisha Khan
+City Hotel,1,229,2017,July,28,12,1,4,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,110.0,0,0,Canceled,2016-11-25,71901,Riya Verma
+City Hotel,1,158,2016,May,22,24,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,37.0,,31,Transient,130.0,0,0,Canceled,2016-01-18,51783,Vivek Patel
+City Hotel,0,17,2015,September,39,26,2,2,1,0.0,0,BB,USA,Groups,TA/TO,0,0,0,A,A,1,No Deposit,1.0,,0,Transient-Party,170.0,0,0,Check-Out,2015-09-30,77989,Vivek Patel
+Resort Hotel,0,149,2017,July,30,26,0,4,2,2.0,0,BB,CHE,Direct,Direct,0,0,0,C,C,0,No Deposit,250.0,,0,Transient,211.25,0,0,Check-Out,2017-07-30,38901,Vivek Patel
+Resort Hotel,0,163,2015,October,43,23,1,2,1,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,C,0,No Deposit,240.0,,0,Transient-Party,47.0,0,1,Check-Out,2015-10-26,2720,Arjun Sharma
+Resort Hotel,0,1,2016,August,33,11,0,1,1,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Transient,149.0,0,0,Check-Out,2016-08-12,26923,Rohan Mehta
+Resort Hotel,0,81,2016,April,15,3,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,52.2,0,1,Check-Out,2016-04-08,22920,Manish Yadav
+City Hotel,0,91,2017,April,14,2,2,2,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,9.0,,0,Transient,117.0,0,4,Check-Out,2017-04-06,109151,Neha Gupta
+City Hotel,0,122,2016,April,16,15,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,151.0,,56,Transient-Party,85.0,0,0,Check-Out,2016-04-17,87390,Amit Singh
+City Hotel,1,143,2016,November,47,17,0,1,1,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,84.6,0,1,Canceled,2016-08-15,60706,Manish Yadav
+Resort Hotel,0,120,2015,August,32,4,2,5,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,6.0,,0,Transient-Party,90.95,0,1,Check-Out,2015-08-11,16119,Aisha Khan
+City Hotel,1,113,2016,February,9,25,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,19.0,,44,Transient,75.0,0,0,Canceled,2015-12-18,81866,Diya Kapoor
+City Hotel,1,395,2016,March,13,21,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,62.8,0,0,Canceled,2015-08-10,76884,Arjun Sharma
+City Hotel,1,391,2016,August,32,4,0,1,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,59.0,0,0,Canceled,2015-10-21,55154,Diya Kapoor
+City Hotel,0,71,2017,July,27,7,1,2,2,0.0,0,BB,NOR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,150.0,0,1,Check-Out,2017-07-10,115837,Sahil Bansal
+Resort Hotel,0,7,2017,March,9,2,1,3,1,0.0,0,BB,GBR,Groups,Corporate,0,0,0,A,A,1,No Deposit,,223.0,0,Transient-Party,29.0,0,0,Check-Out,2017-03-06,33999,Neha Gupta
+City Hotel,1,151,2015,July,30,25,2,1,2,0.0,0,HB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,86.0,0,0,Canceled,2015-07-09,76315,Arjun Sharma
+City Hotel,1,277,2016,November,46,7,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,100.0,0,0,Canceled,2016-04-04,60283,Kunal Joshi
+City Hotel,1,169,2017,June,23,8,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,19.0,,0,Transient,170.0,0,0,Canceled,2016-12-21,70113,Kunal Joshi
+City Hotel,0,158,2016,May,22,25,0,4,2,1.0,0,BB,AUT,Online TA,TA/TO,0,0,0,A,D,13,No Deposit,9.0,,0,Transient,114.75,0,1,Check-Out,2016-05-29,51874,Diya Kapoor
+Resort Hotel,1,50,2016,October,44,29,0,1,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,88.0,0,1,Canceled,2016-10-19,9239,Tanvi Jain
+City Hotel,0,0,2017,July,27,2,1,0,2,0.0,0,SC,PRT,Direct,Direct,0,0,0,B,B,1,No Deposit,,,0,Transient,98.0,0,0,Check-Out,2017-07-03,115333,Vivek Patel
+City Hotel,0,73,2017,July,30,24,1,3,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,159.0,,0,Transient,147.5,0,0,Check-Out,2017-07-28,117080,Riya Verma
+City Hotel,0,0,2016,April,18,28,0,1,1,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,E,0,No Deposit,94.0,,0,Transient-Party,45.0,0,2,Check-Out,2016-04-29,88112,Sameer Shah
+Resort Hotel,0,0,2017,May,18,5,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,80.0,0,0,Check-Out,2017-05-07,36114,Vivek Patel
+City Hotel,1,316,2016,May,21,19,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-22,51456,Arjun Sharma
+City Hotel,0,158,2017,March,13,27,1,1,2,0.0,0,BB,ISR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,0,Transient-Party,95.0,0,0,Check-Out,2017-03-29,108612,Arjun Sharma
+Resort Hotel,1,43,2017,January,4,27,1,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient-Party,48.0,0,0,Canceled,2017-01-05,10038,Sahil Bansal
+City Hotel,1,364,2015,October,42,16,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,6.0,,0,Transient-Party,101.5,0,0,Canceled,2015-07-06,76160,Vivek Patel
+Resort Hotel,1,219,2016,March,10,2,2,5,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,310.0,,0,Transient,52.0,0,0,Canceled,2015-11-20,4407,Vivek Patel
+City Hotel,1,288,2016,May,19,5,0,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,236,Transient-Party,65.0,0,0,Canceled,2016-03-14,50789,Manish Yadav
+Resort Hotel,0,162,2016,March,13,24,0,3,2,0.0,0,Undefined,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,84.0,0,0,Check-Out,2016-03-27,4669,Tanvi Jain
+City Hotel,0,97,2016,August,32,5,1,2,3,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,150.3,0,1,Check-Out,2016-08-08,94740,Vivek Patel
+Resort Hotel,1,21,2017,July,29,17,1,3,2,0.0,0,BB,MAR,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,230.0,0,1,Canceled,2017-06-29,12887,Riya Verma
+City Hotel,0,214,2016,November,48,20,2,1,1,0.0,0,BB,ESP,Groups,Corporate,0,0,0,A,D,2,No Deposit,,233.0,0,Transient,75.0,0,0,Check-Out,2016-11-23,102201,Rohan Mehta
+City Hotel,0,1,2016,December,53,29,0,2,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,120.0,0,1,Check-Out,2016-12-31,103835,Kunal Joshi
+City Hotel,0,18,2017,February,7,17,0,2,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,98.88,0,0,Check-Out,2017-02-19,106126,Vivek Patel
+City Hotel,0,142,2016,May,19,6,1,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,114.3,0,0,Check-Out,2016-05-09,50832,Vivek Patel
+City Hotel,0,99,2017,May,22,30,0,4,2,0.0,0,HB,BEL,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,169.2,0,2,Check-Out,2017-06-03,113263,Aisha Khan
+Resort Hotel,1,320,2017,July,27,4,0,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,93.38,0,0,Canceled,2016-08-18,12652,Manish Yadav
+City Hotel,1,211,2016,May,21,20,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,111,Transient,100.0,0,0,Canceled,2016-03-18,51553,Tanvi Jain
+Resort Hotel,1,198,2016,October,42,15,2,5,2,0.0,0,BB,AUT,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,240.0,,0,Transient-Party,68.0,0,0,Canceled,2016-08-02,8911,Arjun Sharma
+City Hotel,0,37,2016,June,27,29,0,1,3,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,G,0,No Deposit,22.0,,0,Transient,111.6,0,1,Check-Out,2016-06-30,92166,Tanvi Jain
+City Hotel,1,408,2017,May,22,30,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,229.0,,0,Transient,90.0,0,0,Canceled,2017-05-05,69422,Amit Singh
+City Hotel,1,27,2017,February,8,23,0,3,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,118.0,0,0,Canceled,2017-01-29,63943,Kritika Rao
+City Hotel,1,110,2015,July,30,25,2,1,2,0.0,0,HB,ITA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,17.0,,0,Transient-Party,94.5,0,0,Canceled,2015-07-16,40520,Vivek Patel
+City Hotel,1,129,2017,June,22,2,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,154.0,,0,Transient,130.0,0,0,Canceled,2017-01-24,69692,Sahil Bansal
+Resort Hotel,1,275,2015,October,41,4,2,0,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,26,0,A,A,0,Non Refund,208.0,,0,Transient,50.0,0,0,Canceled,2015-01-30,14886,Amit Singh
+City Hotel,0,152,2016,July,29,11,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,9.0,,0,Transient-Party,99.0,0,2,Check-Out,2016-07-13,92956,Priya Nair
+Resort Hotel,0,43,2017,June,24,11,2,5,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,140.0,0,1,Check-Out,2017-06-18,37551,Kunal Joshi
+City Hotel,0,19,2016,February,7,13,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,100.5,0,2,Check-Out,2016-02-14,83995,Rohan Mehta
+City Hotel,0,107,2016,June,24,10,0,2,1,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,187.0,,0,Transient-Party,120.0,0,0,Check-Out,2016-06-12,90933,Riya Verma
+City Hotel,1,16,2016,February,9,27,2,5,1,0.0,0,BB,NGA,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,101.0,0,0,No-Show,2016-02-27,47676,Diya Kapoor
+City Hotel,1,281,2016,April,16,14,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,49572,Kunal Joshi
+City Hotel,0,1,2017,August,35,27,1,0,1,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,80.1,0,0,Check-Out,2017-08-28,119100,Sameer Shah
+City Hotel,1,88,2017,June,24,17,0,1,2,1.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,204.3,0,0,Canceled,2017-03-28,70539,Rohan Mehta
+Resort Hotel,0,4,2016,August,35,23,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,D,0,No Deposit,,42.0,0,Transient,138.0,1,0,Check-Out,2016-08-24,27345,Sameer Shah
+City Hotel,0,111,2017,May,20,14,2,1,2,0.0,0,BB,AUT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,83.0,,0,Transient,117.6,0,0,Check-Out,2017-05-17,112004,Diya Kapoor
+City Hotel,0,74,2015,September,38,18,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-09-20,43550,Rohan Mehta
+Resort Hotel,1,190,2017,July,29,17,2,5,3,0.0,0,Undefined,CHE,Direct,Direct,0,0,0,D,D,3,No Deposit,250.0,,0,Transient,274.45,0,0,Canceled,2017-07-03,12901,Riya Verma
+Resort Hotel,0,11,2015,December,50,6,2,0,2,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,5.0,,0,Transient,37.0,0,0,Check-Out,2015-12-08,19215,Manish Yadav
+City Hotel,1,46,2017,March,10,6,2,5,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,2,No Deposit,8.0,,0,Transient,100.3,0,0,Canceled,2017-01-29,64450,Priya Nair
+Resort Hotel,0,240,2016,October,43,21,2,5,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,2.0,,0,Contract,84.95,1,2,Check-Out,2016-10-28,29514,Riya Verma
+City Hotel,1,279,2015,July,30,23,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74069,Neha Gupta
+City Hotel,1,2,2015,November,46,9,3,8,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,95.81,0,0,Canceled,2015-11-09,80108,Priya Nair
+Resort Hotel,0,54,2015,August,34,18,0,5,2,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,241.0,,0,Transient,151.23,0,1,Check-Out,2015-08-23,16415,Diya Kapoor
+City Hotel,0,9,2017,February,6,8,0,4,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,B,A,1,No Deposit,14.0,,0,Transient,91.1,0,0,Check-Out,2017-02-12,105720,Vivek Patel
+City Hotel,0,64,2016,October,45,31,1,2,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,105.6,0,4,Check-Out,2016-11-03,100977,Aisha Khan
+City Hotel,1,594,2017,February,8,23,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,63935,Vivek Patel
+City Hotel,1,23,2016,February,7,12,1,2,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,72.8,0,0,Canceled,2016-01-24,47310,Neha Gupta
+Resort Hotel,0,30,2015,August,35,28,0,1,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,A,G,0,No Deposit,250.0,,0,Transient,115.0,0,3,Check-Out,2015-08-29,1488,Kunal Joshi
+City Hotel,0,4,2017,April,15,12,0,3,2,0.0,0,SC,CZE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,156.67,0,2,Check-Out,2017-04-15,109794,Neha Gupta
+City Hotel,1,84,2017,May,19,12,0,2,3,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,189.0,0,0,Canceled,2017-04-24,68168,Diya Kapoor
+City Hotel,1,92,2016,November,49,29,0,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,348.0,50,Transient,90.0,0,0,Canceled,2016-11-15,61112,Aisha Khan
+City Hotel,0,4,2016,September,38,13,0,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,174.67,0,1,Check-Out,2016-09-16,97527,Diya Kapoor
+City Hotel,1,32,2016,November,46,11,0,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,130.0,0,1,Canceled,2016-10-17,60559,Sahil Bansal
+Resort Hotel,0,0,2017,February,8,22,0,1,2,0.0,0,BB,FIN,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,80.0,0,0,Check-Out,2017-02-23,33538,Kunal Joshi
+City Hotel,0,8,2017,April,15,13,1,3,2,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,185.25,0,1,Check-Out,2017-04-17,109913,Neha Gupta
+City Hotel,0,73,2016,July,29,12,0,1,2,0.0,0,SC,CN,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,105.0,0,1,Check-Out,2016-07-13,92919,Sahil Bansal
+City Hotel,1,184,2017,May,22,28,2,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,19.0,,0,Transient,130.0,0,0,Canceled,2016-11-25,69382,Arjun Sharma
+City Hotel,1,85,2015,July,30,24,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,76.5,0,0,Canceled,2015-05-20,40494,Sameer Shah
+Resort Hotel,0,11,2016,January,3,15,0,2,3,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,240.0,,0,Transient,71.2,0,0,Check-Out,2016-01-17,20234,Rohan Mehta
+City Hotel,0,4,2016,July,31,27,0,3,3,0.0,0,BB,JPN,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,177.0,1,1,Check-Out,2016-07-30,94139,Sameer Shah
+City Hotel,0,26,2015,October,44,31,2,5,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,95.96,0,1,Check-Out,2015-11-07,80018,Neha Gupta
+City Hotel,0,36,2017,March,11,14,0,4,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,106.68,0,0,Check-Out,2017-03-18,107869,Kunal Joshi
+Resort Hotel,1,55,2016,October,41,3,3,6,1,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,89.0,0,2,Canceled,2016-09-17,8626,Kritika Rao
+City Hotel,1,135,2017,June,26,30,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,30.0,,0,Transient,130.0,0,0,Canceled,2017-02-15,71343,Rohan Mehta
+City Hotel,0,130,2016,September,36,3,2,1,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,42.0,,0,Transient,80.75,0,0,Check-Out,2016-09-06,96755,Aisha Khan
+City Hotel,0,25,2017,January,1,6,0,2,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,G,G,0,No Deposit,14.0,,0,Transient,198.0,0,0,Check-Out,2017-01-08,104326,Rohan Mehta
+City Hotel,0,248,2017,April,15,9,2,0,2,0.0,0,BB,DEU,Groups,TA/TO,0,0,0,A,A,0,No Deposit,58.0,,0,Transient-Party,80.0,0,1,Check-Out,2017-04-11,109496,Kritika Rao
+Resort Hotel,1,92,2016,February,9,26,1,2,2,0.0,0,Undefined,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,134.0,,0,Transient,79.0,0,0,Canceled,2015-12-10,19313,Amit Singh
+City Hotel,1,233,2015,November,45,7,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,60.0,0,0,Canceled,2015-10-21,45669,Vivek Patel
+City Hotel,1,131,2016,August,35,22,1,3,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,92.25,0,0,Canceled,2016-06-13,55933,Rohan Mehta
+City Hotel,0,183,2016,September,37,8,0,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,44.0,,0,Transient-Party,110.0,0,1,Check-Out,2016-09-11,97074,Tanvi Jain
+City Hotel,1,355,2015,October,41,7,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75635,Aisha Khan
+City Hotel,0,0,2017,March,12,24,0,0,0,0.0,0,BB,PRT,Online TA,TA/TO,1,0,0,A,G,0,No Deposit,86.0,,0,Transient,0.0,0,0,Check-Out,2017-03-24,108336,Aisha Khan
+City Hotel,0,61,2017,January,2,8,2,3,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,27.0,,0,Transient,72.0,0,0,Check-Out,2017-01-13,104506,Riya Verma
+City Hotel,1,96,2017,April,17,26,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,130.0,0,0,Canceled,2017-01-20,66951,Manish Yadav
+City Hotel,0,150,2016,June,25,14,1,5,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,121.83,0,2,Check-Out,2016-06-20,91399,Diya Kapoor
+City Hotel,0,181,2016,October,42,11,0,2,1,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,234.0,,0,Transient-Party,120.0,0,0,Check-Out,2016-10-13,99520,Priya Nair
+City Hotel,0,6,2015,December,53,31,0,2,2,0.0,0,BB,RUS,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,137.0,0,1,Check-Out,2016-01-02,46500,Kritika Rao
+City Hotel,0,39,2015,August,33,14,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-08-16,41402,Vivek Patel
+City Hotel,0,19,2017,May,19,12,2,5,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,184.29,0,1,Check-Out,2017-05-19,112112,Sahil Bansal
+City Hotel,1,286,2015,July,31,30,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74091,Neha Gupta
+City Hotel,1,37,2016,October,42,13,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,56.0,,0,Transient-Party,105.0,0,0,Canceled,2016-09-06,58652,Sameer Shah
+City Hotel,0,102,2015,October,42,16,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-10-18,45189,Riya Verma
+City Hotel,1,280,2016,September,39,19,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,35,Transient,110.0,0,0,Canceled,2016-01-18,57221,Amit Singh
+City Hotel,0,1,2017,February,9,26,2,0,2,1.0,0,BB,ESP,Direct,Direct,0,0,0,A,A,1,No Deposit,14.0,,0,Transient,123.0,0,1,Check-Out,2017-02-28,106722,Neha Gupta
+City Hotel,1,59,2017,January,4,23,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,326.0,,0,Transient,80.0,0,0,Canceled,2016-11-25,62918,Amit Singh
+Resort Hotel,0,50,2017,February,8,25,2,1,2,0.0,1,BB,PRT,Direct,Direct,0,0,0,A,A,2,No Deposit,250.0,,0,Transient,39.6,0,1,Check-Out,2017-02-28,33777,Manish Yadav
+City Hotel,1,37,2016,July,27,1,0,1,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,131.4,0,0,Canceled,2016-05-27,53952,Aisha Khan
+City Hotel,1,330,2015,September,37,12,2,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.8,0,0,Canceled,2015-01-01,74397,Neha Gupta
+City Hotel,1,50,2015,October,43,24,1,1,2,0.0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,Non Refund,,,0,Transient,75.0,0,0,Canceled,2015-10-07,45325,Diya Kapoor
+City Hotel,0,25,2017,August,33,14,1,2,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,169.0,0,1,Check-Out,2017-08-17,118347,Sameer Shah
+City Hotel,0,151,2016,July,28,4,1,0,2,2.0,0,BB,CHE,Direct,Direct,0,0,0,F,F,0,No Deposit,14.0,,0,Transient,171.9,0,0,Check-Out,2016-07-05,92452,Manish Yadav
+Resort Hotel,1,6,2015,December,50,6,2,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,1,0,D,D,0,No Deposit,240.0,,0,Transient,54.4,0,0,Canceled,2015-12-01,18944,Tanvi Jain
+City Hotel,1,153,2017,July,28,9,1,0,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.1,0,0,Canceled,2017-05-17,71709,Tanvi Jain
+City Hotel,1,70,2016,September,38,15,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,7.0,,0,Transient,149.4,0,0,Canceled,2016-07-07,56984,Aisha Khan
+City Hotel,0,62,2016,May,21,19,0,1,1,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,116.1,0,0,Check-Out,2016-05-20,89438,Riya Verma
+City Hotel,0,104,2017,March,12,19,2,5,1,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,20.0,,0,Transient-Party,65.0,0,0,Check-Out,2017-03-26,108432,Tanvi Jain
+City Hotel,0,83,2015,September,40,30,0,1,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,26.0,,77,Transient-Party,112.2,0,0,Check-Out,2015-10-01,44164,Riya Verma
+City Hotel,0,69,2017,April,14,7,0,2,3,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,162.0,0,1,Check-Out,2017-04-09,109346,Amit Singh
+City Hotel,0,5,2016,August,35,26,1,2,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,96.76,0,1,Check-Out,2016-08-29,96199,Manish Yadav
+City Hotel,1,77,2015,August,32,3,5,12,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,76.5,0,0,Canceled,2015-05-21,40738,Amit Singh
+Resort Hotel,0,167,2015,September,38,17,4,10,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,243.0,,0,Contract,68.0,0,3,Check-Out,2015-10-01,17314,Tanvi Jain
+City Hotel,0,72,2016,June,23,1,0,3,2,0.0,0,BB,AUT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,7.0,,0,Transient,108.11,0,0,Check-Out,2016-06-04,90311,Aisha Khan
+City Hotel,0,3,2017,January,4,24,0,1,1,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,88.0,0,0,Check-Out,2017-01-25,105023,Diya Kapoor
+Resort Hotel,1,256,2015,August,31,1,3,6,2,2.0,0,BB,PRT,Online TA,TA/TO,0,1,0,G,G,1,No Deposit,240.0,,0,Transient-Party,199.0,0,1,Canceled,2015-07-27,15702,Amit Singh
+Resort Hotel,0,109,2015,July,27,4,2,6,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,123.0,0,1,Check-Out,2015-07-12,216,Kunal Joshi
+City Hotel,0,4,2015,August,34,17,1,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,122.0,0,3,Check-Out,2015-08-21,41611,Tanvi Jain
+City Hotel,0,13,2015,October,41,6,0,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,28.0,,0,Transient,75.0,0,1,Check-Out,2015-10-09,78527,Diya Kapoor
+Resort Hotel,1,2,2017,February,9,27,1,0,2,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,92.0,0,1,Canceled,2017-02-26,10431,Priya Nair
+City Hotel,1,265,2015,July,28,9,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74030,Vivek Patel
+City Hotel,0,3,2016,September,39,22,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,D,D,0,No Deposit,,308.0,0,Transient,166.25,0,0,Check-Out,2016-09-23,98041,Tanvi Jain
+City Hotel,1,105,2016,April,15,6,0,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,12.0,,0,Transient,75.0,0,0,Canceled,2016-01-18,49166,Priya Nair
+City Hotel,0,178,2017,July,28,13,2,5,2,2.0,0,HB,DNK,Direct,Direct,0,0,0,E,E,1,No Deposit,14.0,,0,Transient,214.0,0,3,Check-Out,2017-07-20,116537,Kunal Joshi
+City Hotel,0,29,2016,December,49,2,0,2,1,0.0,0,BB,DEU,Corporate,TA/TO,0,0,0,A,A,4,No Deposit,,,0,Transient-Party,66.18,0,1,Check-Out,2016-12-04,102747,Rohan Mehta
+Resort Hotel,0,61,2016,March,12,14,1,3,2,0.0,0,BB,IRL,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,156.0,,0,Transient,35.15,0,1,Check-Out,2016-03-18,22226,Rohan Mehta
+City Hotel,1,82,2017,March,10,5,2,4,2,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,91.8,0,0,Canceled,2017-02-24,64420,Sameer Shah
+Resort Hotel,1,111,2015,October,43,23,1,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,45.0,0,1,Canceled,2015-07-20,2724,Kritika Rao
+City Hotel,0,61,2016,December,51,16,1,2,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,79.2,0,0,Check-Out,2016-12-19,103399,Priya Nair
+City Hotel,1,197,2017,March,11,16,0,3,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.2,0,2,Canceled,2016-09-25,64896,Kunal Joshi
+Resort Hotel,1,86,2017,March,10,9,0,3,2,0.0,0,Undefined,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,67.0,,0,Transient,46.0,0,0,Canceled,2016-12-13,10585,Neha Gupta
+City Hotel,0,247,2016,June,24,6,1,1,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,F,0,No Deposit,6.0,,0,Transient-Party,115.0,0,1,Check-Out,2016-06-08,90642,Vivek Patel
+City Hotel,1,280,2017,August,33,16,2,4,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,113.1,0,0,Canceled,2016-11-09,73316,Priya Nair
+City Hotel,0,27,2016,July,30,23,0,1,3,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,9.0,,0,Transient,187.0,0,2,Check-Out,2016-07-24,93731,Sameer Shah
+Resort Hotel,1,41,2016,September,39,23,0,1,1,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,139.0,0,1,Canceled,2016-08-26,8448,Amit Singh
+City Hotel,1,78,2017,April,17,29,2,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,0,Transient,90.0,0,0,Canceled,2017-02-10,67313,Tanvi Jain
+Resort Hotel,0,19,2017,August,35,31,0,3,2,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,15.0,,0,Transient,165.6,0,0,Check-Out,2017-09-03,40086,Amit Singh
+City Hotel,0,220,2016,September,38,17,2,1,1,0.0,0,HB,ITA,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,177.0,,0,Transient-Party,128.0,0,0,Check-Out,2016-09-20,97804,Kritika Rao
+City Hotel,0,133,2016,October,44,23,2,2,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,108.38,0,0,Check-Out,2016-10-27,100470,Tanvi Jain
+Resort Hotel,0,213,2016,May,21,16,1,1,1,0.0,0,HB,DEU,Groups,TA/TO,0,0,0,A,A,1,No Deposit,298.0,,0,Transient-Party,54.5,0,0,Check-Out,2016-05-18,5985,Sahil Bansal
+City Hotel,0,23,2016,January,1,2,2,1,2,0.0,0,HB,ITA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,26.0,,0,Transient-Party,109.0,0,0,Check-Out,2016-01-05,82808,Arjun Sharma
+Resort Hotel,1,238,2017,February,6,10,0,2,2,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,155.0,,0,Transient,54.0,0,0,Canceled,2016-12-15,10167,Kritika Rao
+City Hotel,1,39,2017,July,28,15,0,1,1,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,140.0,0,0,Canceled,2017-07-11,71984,Priya Nair
+City Hotel,1,195,2015,September,38,17,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,20.0,,0,Transient,48.0,0,0,Canceled,2015-07-23,76621,Kunal Joshi
+City Hotel,1,47,2016,April,16,12,0,1,1,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,99.9,0,0,Canceled,2016-03-21,49482,Amit Singh
+City Hotel,1,58,2016,January,5,27,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,87.0,,0,Transient-Party,80.0,0,0,Canceled,2016-01-07,83038,Kunal Joshi
+City Hotel,0,49,2017,April,16,16,2,0,2,0.0,0,SC,PRY,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,0,Check-Out,2017-04-18,109983,Vivek Patel
+Resort Hotel,1,349,2016,August,32,4,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,125.4,0,3,Canceled,2016-06-21,7440,Manish Yadav
+Resort Hotel,0,0,2017,April,14,8,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,E,0,No Deposit,,,0,Transient,110.0,0,0,Check-Out,2017-04-09,35054,Tanvi Jain
+Resort Hotel,0,3,2015,October,41,9,1,2,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,83.33,0,2,Check-Out,2015-10-12,2428,Kritika Rao
+Resort Hotel,0,27,2017,March,11,16,0,1,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,,,0,Transient,68.0,0,1,Check-Out,2017-03-17,34301,Rohan Mehta
+City Hotel,1,38,2017,January,2,14,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,Non Refund,,67.0,0,Transient,75.0,0,0,Canceled,2016-12-07,62579,Tanvi Jain
+City Hotel,1,61,2017,May,20,17,0,4,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,162.0,0,1,Canceled,2017-03-26,68536,Neha Gupta
+Resort Hotel,0,154,2017,August,34,21,2,5,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,40.0,,0,Contract,132.86,0,1,Check-Out,2017-08-28,39866,Neha Gupta
+City Hotel,0,183,2017,January,1,1,2,4,2,2.0,0,BB,RUS,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,153.5,1,1,Check-Out,2017-01-07,104251,Sameer Shah
+City Hotel,0,105,2017,August,33,13,2,3,2,0.0,0,SC,AUT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,95.0,0,1,Check-Out,2017-08-18,118375,Kritika Rao
+City Hotel,1,194,2017,April,16,21,2,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.0,0,2,Canceled,2017-04-21,66681,Kritika Rao
+City Hotel,0,4,2016,February,7,13,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,95.0,0,2,Check-Out,2016-02-14,84000,Manish Yadav
+Resort Hotel,0,1,2016,December,51,17,0,1,2,1.0,0,HB,ESP,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,136.0,0,1,Check-Out,2016-12-18,31291,Sahil Bansal
+City Hotel,1,6,2016,November,48,24,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,1,1,3,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,1,Canceled,2016-11-23,94392,Tanvi Jain
+Resort Hotel,0,82,2017,July,30,23,3,5,2,0.0,0,HB,GBR,Direct,Direct,0,0,0,F,F,1,No Deposit,250.0,,0,Transient,294.0,0,2,Check-Out,2017-07-31,38924,Arjun Sharma
+City Hotel,1,174,2015,October,41,10,1,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,3.0,,0,Transient,70.0,0,0,Canceled,2015-08-31,44869,Sameer Shah
+City Hotel,0,22,2017,April,16,21,2,2,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,115.0,0,1,Check-Out,2017-04-25,110361,Aisha Khan
+City Hotel,1,272,2015,July,29,16,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74037,Aisha Khan
+City Hotel,0,0,2017,May,20,19,0,1,3,0.0,1,BB,AGO,Direct,Direct,0,0,0,F,F,1,No Deposit,,,0,Transient,305.0,0,0,Check-Out,2017-05-20,112223,Manish Yadav
+City Hotel,0,34,2016,November,46,7,1,2,1,0.0,0,BB,DEU,Online TA,GDS,0,0,0,A,A,0,No Deposit,195.0,,0,Transient,169.2,0,0,Check-Out,2016-11-10,101370,Sahil Bansal
+Resort Hotel,1,139,2016,April,15,4,1,1,3,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,242.0,,0,Transient,94.0,0,1,Canceled,2016-03-08,4952,Diya Kapoor
+City Hotel,0,14,2016,July,27,2,2,3,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,151.0,0,2,Check-Out,2016-07-07,92579,Sahil Bansal
+Resort Hotel,1,237,2017,May,18,3,0,1,2,0.0,0,HB,RUS,Online TA,TA/TO,0,0,0,E,E,2,No Deposit,240.0,,0,Transient-Party,109.8,0,0,Canceled,2016-12-29,11414,Diya Kapoor
+City Hotel,0,46,2016,July,31,27,0,1,2,1.0,0,BB,AUT,Online TA,TA/TO,0,0,0,A,E,0,No Deposit,9.0,,0,Transient,152.1,0,2,Check-Out,2016-07-28,93940,Diya Kapoor
+City Hotel,1,86,2016,December,52,24,2,3,3,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,119.0,0,2,Canceled,2016-11-30,61837,Sahil Bansal
+City Hotel,1,265,2016,April,17,20,0,4,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,30.0,,0,Transient,101.0,0,0,Canceled,2015-07-30,50011,Neha Gupta
+City Hotel,1,52,2017,January,1,6,2,2,2,0.0,0,BB,ITA,Online TA,TA/TO,1,1,1,A,A,0,No Deposit,9.0,,0,Transient,88.4,0,2,Canceled,2016-12-22,78306,Riya Verma
+Resort Hotel,0,47,2016,November,47,19,2,3,2,0.0,0,BB,POL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,37.8,0,2,Check-Out,2016-11-24,30582,Sameer Shah
+City Hotel,1,47,2017,July,27,3,1,3,3,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,234.5,0,1,Canceled,2017-05-17,71462,Tanvi Jain
+Resort Hotel,0,2,2017,February,8,23,0,2,1,0.0,0,Undefined,ESP,Groups,TA/TO,0,0,0,A,A,1,No Deposit,68.0,,0,Transient-Party,0.0,0,0,Check-Out,2017-02-25,33581,Sameer Shah
+Resort Hotel,0,199,2016,May,19,2,1,1,2,0.0,0,HB,DEU,Groups,TA/TO,0,0,0,A,A,0,No Deposit,298.0,,0,Transient-Party,85.0,0,0,Check-Out,2016-05-04,5642,Riya Verma
+City Hotel,0,99,2017,June,23,9,0,1,1,0.0,0,HB,BRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,7.0,,0,Transient,146.16,0,0,Check-Out,2017-06-10,113722,Kritika Rao
+City Hotel,0,246,2017,July,28,10,1,0,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,107.1,0,1,Check-Out,2017-07-11,115895,Priya Nair
+City Hotel,1,97,2017,July,28,11,0,3,2,0.0,0,BB,AUS,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,150.0,0,2,Canceled,2017-04-06,71842,Kunal Joshi
+Resort Hotel,1,250,2017,June,26,26,1,4,2,1.0,0,BB,ESP,Direct,Direct,0,0,0,A,A,2,No Deposit,250.0,,0,Transient,132.6,0,0,Canceled,2017-05-29,12484,Diya Kapoor
+Resort Hotel,1,106,2016,March,13,24,1,3,2,0.0,0,FB,PRT,Groups,Direct,0,0,0,A,A,0,Non Refund,68.0,,0,Transient,84.0,0,0,Canceled,2016-01-22,4724,Priya Nair
+City Hotel,0,4,2016,September,39,20,0,1,2,1.0,0,SC,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,15.0,,0,Transient,152.2,0,0,Check-Out,2016-09-21,97864,Diya Kapoor
+Resort Hotel,0,54,2015,September,36,5,2,5,2,0.0,0,BB,CN,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Transient,98.0,0,2,Check-Out,2015-09-12,1693,Priya Nair
+City Hotel,1,179,2016,September,36,2,2,5,0,2.0,0,BB,ESP,Online TA,TA/TO,0,0,0,B,B,3,No Deposit,9.0,,0,Transient-Party,121.01,0,0,Canceled,2016-09-01,56394,Rohan Mehta
+City Hotel,0,127,2017,August,33,16,2,5,2,0.0,0,BB,CN,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,262.0,,0,Transient,80.1,0,1,Check-Out,2017-08-23,118679,Priya Nair
+Resort Hotel,0,74,2017,March,13,30,2,5,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,113.29,0,1,Check-Out,2017-04-06,34919,Sahil Bansal
+Resort Hotel,1,12,2016,July,31,24,1,0,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,126.0,0,0,Canceled,2016-07-13,7250,Kunal Joshi
+Resort Hotel,0,21,2017,May,22,28,2,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,142.0,0,3,Check-Out,2017-05-31,36941,Vivek Patel
+Resort Hotel,0,0,2017,January,2,9,1,0,2,0.0,0,BB,USA,Online TA,TA/TO,1,0,0,A,A,0,No Deposit,306.0,,0,Transient,30.99,0,0,Check-Out,2017-01-10,31981,Tanvi Jain
+Resort Hotel,1,80,2015,August,31,1,4,6,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,C,C,0,No Deposit,242.0,,0,Transient,169.0,0,1,Canceled,2015-07-21,967,Neha Gupta
+Resort Hotel,1,57,2017,March,10,11,2,5,1,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,D,D,0,No Deposit,298.0,,0,Transient-Party,51.0,0,0,Canceled,2017-01-26,10613,Sahil Bansal
+City Hotel,1,69,2016,June,25,12,2,4,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,236.0,,0,Transient,120.0,0,0,Canceled,2016-05-04,52874,Arjun Sharma
+City Hotel,0,95,2017,March,12,25,2,3,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,27.0,,0,Transient,72.0,0,0,Check-Out,2017-03-30,108722,Arjun Sharma
+Resort Hotel,1,16,2015,July,30,25,1,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,134.0,0,0,Canceled,2015-07-23,775,Aisha Khan
+City Hotel,0,50,2016,December,50,4,2,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,88.4,0,0,Check-Out,2016-12-08,102955,Diya Kapoor
+Resort Hotel,1,2,2017,February,8,22,0,4,1,0.0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,36.0,0,0,Canceled,2017-02-20,10339,Neha Gupta
+City Hotel,0,23,2017,August,31,3,1,3,2,0.0,0,SC,RUS,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,147.0,0,1,Check-Out,2017-08-07,117738,Diya Kapoor
+Resort Hotel,1,2,2015,October,42,14,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,1,0,A,A,0,No Deposit,,,0,Transient,47.0,0,0,Canceled,2015-10-12,14636,Diya Kapoor
+City Hotel,0,3,2016,March,13,25,1,2,2,0.0,0,SC,ISR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,135.67,0,1,Check-Out,2016-03-28,86232,Tanvi Jain
+Resort Hotel,0,23,2017,April,16,20,0,3,2,0.0,0,BB,GBR,Groups,Direct,0,0,0,A,D,0,No Deposit,,,0,Transient-Party,99.0,0,0,Check-Out,2017-04-23,35549,Rohan Mehta
+City Hotel,0,103,2016,November,46,7,1,3,1,0.0,0,BB,FIN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,187.25,0,2,Check-Out,2016-11-11,101484,Kritika Rao
+City Hotel,0,168,2017,May,20,14,2,1,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,0,Check-Out,2017-05-17,111968,Riya Verma
+City Hotel,0,260,2016,October,43,22,2,5,2,1.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,108.68,0,3,Check-Out,2016-10-29,100656,Sahil Bansal
+Resort Hotel,1,99,2015,October,43,24,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,65.0,0,2,Canceled,2015-08-26,2763,Amit Singh
+City Hotel,0,192,2016,June,26,24,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,34.0,,0,Transient-Party,95.0,0,0,Check-Out,2016-06-26,91971,Arjun Sharma
+City Hotel,1,273,2015,July,29,17,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,6.0,,0,Transient-Party,101.5,0,0,Canceled,2015-07-06,76250,Priya Nair
+Resort Hotel,0,10,2016,March,11,11,2,2,2,0.0,0,BB,POL,Online TA,TA/TO,0,0,0,E,F,2,No Deposit,240.0,,0,Transient,67.5,0,1,Check-Out,2016-03-15,22083,Diya Kapoor
+City Hotel,1,41,2016,April,17,21,0,3,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,7.0,,0,Transient,191.58,0,0,Canceled,2016-03-11,50071,Tanvi Jain
+City Hotel,0,21,2015,September,36,3,0,2,2,0.0,0,BB,SWE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,105.0,0,0,Check-Out,2015-09-05,42324,Vivek Patel
+Resort Hotel,0,6,2016,November,48,25,0,1,2,0.0,0,Undefined,PRT,Direct,Direct,0,0,0,F,F,1,No Deposit,250.0,,0,Transient,147.0,0,0,Check-Out,2016-11-26,30648,Arjun Sharma
+Resort Hotel,0,234,2016,October,44,23,2,5,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,243.0,,0,Contract,37.4,0,2,Check-Out,2016-10-30,29606,Riya Verma
+City Hotel,1,3,2015,August,34,17,1,3,2,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,38.0,0,Transient,130.0,0,0,Canceled,2015-08-17,41610,Sameer Shah
+Resort Hotel,0,0,2017,July,28,15,0,1,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,A,E,1,No Deposit,,,0,Transient-Party,195.0,0,0,Check-Out,2017-07-16,38489,Riya Verma
+City Hotel,0,6,2017,July,28,14,0,2,2,0.0,0,BB,CHN,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,172.5,0,2,Check-Out,2017-07-16,116319,Manish Yadav
+Resort Hotel,0,5,2017,May,20,15,1,0,1,0.0,0,BB,GBR,Complementary,TA/TO,1,0,3,E,E,0,No Deposit,40.0,,0,Transient,0.0,1,2,Check-Out,2017-05-16,18474,Arjun Sharma
+City Hotel,1,6,2015,September,39,20,2,0,2,0.0,0,BB,PRT,Corporate,Corporate,0,1,0,A,A,0,Non Refund,78.0,,0,Transient,100.0,0,0,Canceled,2015-09-15,77353,Aisha Khan
+Resort Hotel,0,156,2017,May,19,8,2,5,2,0.0,0,HB,IRL,Groups,TA/TO,0,0,0,A,A,2,No Deposit,434.0,,0,Transient-Party,80.0,0,1,Check-Out,2017-05-15,36364,Vivek Patel
+Resort Hotel,0,229,2017,March,13,27,2,5,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,D,1,No Deposit,240.0,,0,Transient,52.43,0,2,Check-Out,2017-04-03,34816,Vivek Patel
+Resort Hotel,1,134,2017,April,15,13,0,3,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,1,No Deposit,3.0,,0,Transient-Party,95.4,0,1,Canceled,2017-03-10,11064,Kunal Joshi
+City Hotel,0,0,2015,October,42,12,1,2,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,0,Check-Out,2015-10-15,78789,Kritika Rao
+City Hotel,0,8,2016,April,16,16,2,2,3,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,144.5,0,1,Check-Out,2016-04-20,87550,Arjun Sharma
+Resort Hotel,0,33,2017,June,23,10,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,118.0,1,2,Check-Out,2017-06-11,37345,Aisha Khan
+City Hotel,0,13,2016,March,13,20,1,0,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,220.0,,0,Transient-Party,85.0,0,1,Check-Out,2016-03-21,85854,Vivek Patel
+City Hotel,1,115,2017,May,20,18,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,170.0,,0,Transient,190.0,0,0,Canceled,2017-01-23,68574,Neha Gupta
+Resort Hotel,0,22,2017,August,34,25,1,2,2,2.0,0,HB,ESP,Online TA,TA/TO,0,0,0,C,C,1,No Deposit,240.0,,0,Transient-Party,314.67,0,2,Check-Out,2017-08-28,39887,Riya Verma
+City Hotel,0,63,2016,April,16,13,0,4,2,2.0,0,BB,FRA,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,167.45,0,1,Check-Out,2016-04-17,87359,Kritika Rao
+Resort Hotel,0,9,2015,October,42,14,1,4,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,241.0,,0,Transient,48.2,0,1,Check-Out,2015-10-19,17824,Arjun Sharma
+City Hotel,1,462,2017,July,26,1,2,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,229.0,,0,Transient-Party,112.67,0,1,Canceled,2017-06-21,71393,Amit Singh
+Resort Hotel,0,8,2015,July,29,14,2,5,2,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,168.57,0,1,Check-Out,2015-07-21,500,Riya Verma
+City Hotel,1,330,2015,September,37,12,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-06,75920,Kunal Joshi
+City Hotel,0,212,2016,September,40,26,1,3,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient-Party,129.65,0,1,Check-Out,2016-09-30,98566,Kunal Joshi
+Resort Hotel,0,109,2016,March,11,7,1,3,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,6.0,,0,Transient,27.5,0,1,Check-Out,2016-03-11,21895,Diya Kapoor
+City Hotel,0,86,2016,October,43,20,0,3,4,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,G,G,1,No Deposit,7.0,,0,Transient,192.86,0,1,Check-Out,2016-10-23,100095,Tanvi Jain
+City Hotel,0,79,2017,April,17,24,1,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,132.75,0,1,Check-Out,2017-04-28,110530,Arjun Sharma
+City Hotel,1,221,2016,June,24,10,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,3.0,,15,Transient,80.0,0,0,Canceled,2015-11-17,80601,Riya Verma
+Resort Hotel,1,256,2016,June,25,17,2,7,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,72.0,0,1,Canceled,2015-12-30,6660,Riya Verma
+City Hotel,0,9,2015,August,35,23,2,0,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,75.0,0,0,Check-Out,2015-08-25,41862,Arjun Sharma
+Resort Hotel,0,207,2016,August,33,12,1,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,152.0,1,0,Check-Out,2016-08-15,27016,Sameer Shah
+Resort Hotel,1,147,2016,March,14,28,2,5,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,,,0,Transient-Party,73.0,0,0,Canceled,2016-03-04,4805,Rohan Mehta
+Resort Hotel,0,10,2016,October,42,9,2,0,2,0.0,0,BB,GBR,Groups,Corporate,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,55.0,0,0,Check-Out,2016-10-11,28872,Rohan Mehta
+Resort Hotel,1,32,2016,April,17,19,2,5,2,0.0,0,HB,PRT,Groups,Direct,0,0,0,D,D,0,No Deposit,273.0,,0,Transient-Party,69.36,0,0,Canceled,2016-03-18,5279,Neha Gupta
+Resort Hotel,0,88,2016,April,16,15,2,5,2,0.0,0,BB,FIN,Offline TA/TO,TA/TO,0,0,0,D,F,0,No Deposit,314.0,,0,Transient,69.7,1,1,Check-Out,2016-04-22,23415,Sahil Bansal
+Resort Hotel,1,11,2015,December,49,5,2,1,2,0.0,0,FB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,,,0,Transient-Party,64.0,0,0,Canceled,2015-11-27,18814,Priya Nair
+City Hotel,0,320,2016,August,34,18,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,115.0,0,1,Check-Out,2016-08-20,95587,Sahil Bansal
+City Hotel,1,153,2015,August,32,3,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2015-05-19,74982,Vivek Patel
+Resort Hotel,0,107,2015,July,27,2,2,5,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,110.7,0,2,Check-Out,2015-07-09,145,Amit Singh
+City Hotel,1,177,2017,July,27,3,1,1,2,0.0,0,SC,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.1,0,0,Canceled,2017-03-22,71446,Tanvi Jain
+City Hotel,0,20,2017,May,21,24,0,1,2,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,87.0,,0,Transient-Party,120.0,0,0,Check-Out,2017-05-25,112576,Sameer Shah
+Resort Hotel,0,12,2016,January,5,30,0,1,1,0.0,0,BB,LTU,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,95.0,,0,Transient,25.0,0,0,Check-Out,2016-01-31,20593,Kritika Rao
+Resort Hotel,1,19,2017,January,3,15,2,2,3,1.0,0,BB,IRL,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,240.0,,0,Transient,93.0,0,1,Canceled,2016-12-27,9970,Priya Nair
+Resort Hotel,0,44,2016,April,15,6,0,4,2,0.0,0,HB,PRT,Direct,Direct,0,0,0,A,D,0,No Deposit,250.0,,0,Transient-Party,83.0,0,2,Check-Out,2016-04-10,23016,Kunal Joshi
+City Hotel,0,80,2015,October,41,9,0,2,1,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,12.0,,50,Transient-Party,108.0,0,0,Check-Out,2015-10-11,44733,Tanvi Jain
+City Hotel,1,285,2016,October,41,3,1,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,31.0,,24,Transient,100.0,0,0,Canceled,2016-01-16,58018,Sahil Bansal
+Resort Hotel,0,2,2017,February,6,10,0,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,48.0,0,2,Check-Out,2017-02-12,33122,Sameer Shah
+Resort Hotel,0,40,2017,January,3,16,1,2,1,0.0,0,Undefined,PRT,Groups,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,55.0,0,0,Check-Out,2017-01-19,32325,Kunal Joshi
+City Hotel,1,18,2016,December,53,30,0,2,2,2.0,0,BB,PRT,Direct,Direct,0,0,0,G,G,0,No Deposit,,,0,Transient,200.0,0,0,Canceled,2016-12-14,62111,Amit Singh
+Resort Hotel,0,5,2016,March,13,20,2,2,2,0.0,1,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,C,1,No Deposit,171.0,,0,Transient,41.4,0,0,Check-Out,2016-03-24,22459,Aisha Khan
+Resort Hotel,0,100,2016,August,32,6,1,1,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,201.0,1,0,Check-Out,2016-08-08,26778,Tanvi Jain
+City Hotel,1,37,2017,March,11,15,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,378.0,,0,Transient,110.0,0,0,Canceled,2017-02-06,64777,Diya Kapoor
+City Hotel,1,20,2016,March,14,31,0,2,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,2,No Deposit,,179.0,0,Transient,79.0,0,0,Canceled,2016-03-23,48914,Rohan Mehta
+City Hotel,1,262,2017,May,21,24,0,4,3,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,157.5,0,2,Canceled,2016-09-22,69128,Sameer Shah
+City Hotel,1,78,2016,April,15,5,0,4,2,0.0,0,BB,HUN,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,97.33,0,0,Canceled,2016-03-18,49152,Sameer Shah
+Resort Hotel,0,342,2016,September,40,29,2,4,1,0.0,0,BB,IRL,Groups,TA/TO,0,0,0,A,A,0,No Deposit,201.0,,0,Transient-Party,36.0,0,0,Check-Out,2016-10-05,28600,Riya Verma
+Resort Hotel,0,32,2015,August,34,21,2,4,2,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,178.33,0,2,Check-Out,2015-08-27,1357,Kritika Rao
+Resort Hotel,0,53,2016,September,39,23,1,2,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,129.33,0,3,Check-Out,2016-09-26,28350,Rohan Mehta
+City Hotel,0,55,2015,September,37,6,2,0,2,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,75.0,0,0,Check-Out,2015-09-08,42591,Neha Gupta
+City Hotel,0,5,2015,December,52,22,0,5,0,2.0,0,BB,PRT,Complementary,Direct,0,0,0,B,B,1,No Deposit,,,0,Transient,0.0,0,0,Check-Out,2015-12-27,82404,Tanvi Jain
+City Hotel,1,342,2015,September,39,24,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74250,Riya Verma
+City Hotel,1,77,2016,March,13,26,2,5,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,97.02,0,0,Canceled,2016-01-09,48785,Sahil Bansal
+City Hotel,1,41,2016,September,39,18,2,1,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,149.4,0,1,Canceled,2016-08-15,57183,Arjun Sharma
+City Hotel,0,68,2017,July,28,10,1,0,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,100.0,0,1,Check-Out,2017-07-11,115914,Vivek Patel
+City Hotel,0,50,2017,March,12,21,0,4,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,57.6,0,0,Check-Out,2017-03-25,108376,Rohan Mehta
+Resort Hotel,1,22,2017,June,26,29,0,1,1,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,60.0,0,0,Canceled,2017-06-28,12524,Kritika Rao
+Resort Hotel,0,91,2015,July,29,17,1,2,2,1.0,0,BB,MOZ,Online TA,TA/TO,0,0,0,A,A,4,No Deposit,240.0,,0,Transient,118.5,0,3,Check-Out,2015-07-20,606,Vivek Patel
+City Hotel,1,42,2017,April,16,16,2,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,146.25,0,0,Canceled,2017-03-05,66409,Arjun Sharma
+Resort Hotel,0,5,2017,January,3,19,0,3,1,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,43.0,0,3,Check-Out,2017-01-22,32384,Riya Verma
+City Hotel,0,6,2016,May,20,9,1,1,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,126.0,0,1,Check-Out,2016-05-11,88782,Diya Kapoor
+City Hotel,1,50,2016,January,5,29,1,2,1,0.0,0,BB,TUR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,72.9,0,0,Canceled,2015-12-23,47058,Kritika Rao
+City Hotel,0,177,2017,August,33,16,0,4,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,354.0,,0,Transient,121.77,0,0,Check-Out,2017-08-20,118541,Amit Singh
+City Hotel,1,24,2016,February,9,22,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,86.0,,0,Transient,72.8,0,0,Canceled,2016-02-01,47552,Diya Kapoor
+Resort Hotel,0,31,2016,April,16,16,2,5,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient,41.4,0,0,Check-Out,2016-04-23,23445,Aisha Khan
+City Hotel,0,30,2017,June,23,4,2,1,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,133.33,0,1,Check-Out,2017-06-07,113513,Diya Kapoor
+Resort Hotel,0,3,2016,March,10,4,2,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,D,D,2,No Deposit,240.0,,0,Transient,58.0,0,1,Check-Out,2016-03-09,21832,Vivek Patel
+City Hotel,1,150,2016,October,41,3,1,2,2,1.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,135.0,0,0,Canceled,2016-05-24,58010,Arjun Sharma
+City Hotel,0,159,2016,May,22,26,0,3,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,7,No Deposit,9.0,,0,Transient,119.85,0,1,Check-Out,2016-05-29,51968,Aisha Khan
+Resort Hotel,0,287,2015,October,42,15,1,3,1,0.0,0,BB,GBR,Groups,Corporate,0,0,0,A,A,1,No Deposit,,223.0,0,Transient-Party,37.0,0,0,Check-Out,2015-10-19,17781,Vivek Patel
+City Hotel,0,0,2017,January,4,25,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,365.0,0,Transient-Party,85.0,0,0,Check-Out,2017-01-27,105074,Riya Verma
+Resort Hotel,0,73,2016,November,46,12,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,37.8,0,1,Check-Out,2016-11-13,30168,Manish Yadav
+City Hotel,1,39,2016,March,11,6,2,3,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,116.1,0,1,Canceled,2016-01-29,47964,Kunal Joshi
+City Hotel,0,32,2015,November,47,20,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,2,No Deposit,119.0,,0,Transient-Party,73.0,0,0,Check-Out,2015-11-22,80791,Arjun Sharma
+Resort Hotel,1,121,2015,December,49,4,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,50.4,0,2,Canceled,2015-08-17,3390,Arjun Sharma
+City Hotel,0,147,2016,July,30,22,1,2,2,1.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,22.0,,0,Transient,84.58,0,1,Check-Out,2016-07-25,93779,Amit Singh
+City Hotel,0,152,2015,October,44,29,1,3,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,16.0,,0,Transient,56.52,0,0,Check-Out,2015-11-02,45563,Riya Verma
+City Hotel,0,111,2017,August,33,14,1,2,3,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,225.0,0,2,Check-Out,2017-08-17,118324,Vivek Patel
+Resort Hotel,0,152,2017,June,26,28,1,4,2,0.0,0,HB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,196.0,,0,Transient,106.5,0,0,Check-Out,2017-07-03,38027,Aisha Khan
+Resort Hotel,0,13,2015,August,34,18,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Transient,172.0,0,0,Check-Out,2015-08-19,1300,Riya Verma
+City Hotel,0,42,2017,June,26,30,2,2,2,2.0,0,BB,SWE,Direct,Direct,0,0,0,E,E,0,No Deposit,14.0,,0,Transient,151.58,0,0,Check-Out,2017-07-04,115431,Vivek Patel
+Resort Hotel,0,94,2016,June,24,10,0,2,3,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,6,No Deposit,240.0,,0,Transient-Party,163.0,1,0,Check-Out,2016-06-12,25128,Vivek Patel
+City Hotel,0,9,2017,February,7,12,2,1,2,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,K,0,No Deposit,7.0,,0,Transient,83.16,0,0,Check-Out,2017-02-15,105896,Sameer Shah
+Resort Hotel,0,237,2016,December,53,29,2,6,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,240.0,,0,Transient,68.25,0,2,Check-Out,2017-01-06,31864,Arjun Sharma
+City Hotel,1,165,2017,May,20,19,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,225.0,0,0,Canceled,2017-01-12,68793,Arjun Sharma
+City Hotel,1,31,2016,April,14,2,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.9,0,0,Canceled,2016-03-06,49004,Vivek Patel
+Resort Hotel,0,287,2016,September,37,5,2,5,2,0.0,0,BB,GBR,Groups,TA/TO,0,0,0,A,A,0,Refundable,418.0,,0,Transient-Party,69.0,0,0,Check-Out,2016-09-12,27912,Aisha Khan
+Resort Hotel,0,2,2016,February,6,6,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,E,F,0,No Deposit,,,0,Transient-Party,58.0,0,0,Check-Out,2016-02-07,20772,Diya Kapoor
+City Hotel,1,54,2016,March,12,18,1,2,2,0.0,0,SC,POL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,88.2,0,0,Canceled,2016-02-13,48310,Riya Verma
+Resort Hotel,0,0,2016,October,43,19,0,1,2,1.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,85.0,1,1,Check-Out,2016-10-20,29169,Riya Verma
+City Hotel,0,14,2016,November,49,28,1,2,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,28.0,,0,Transient,80.0,0,0,Check-Out,2016-12-01,102650,Manish Yadav
+City Hotel,1,320,2017,June,24,15,0,3,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,0,Transient,80.0,0,0,Canceled,2017-01-12,70450,Kritika Rao
+Resort Hotel,0,0,2016,March,12,14,1,0,1,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,D,0,No Deposit,,47.0,0,Transient,30.0,0,0,Check-Out,2016-03-15,22078,Riya Verma
+City Hotel,0,34,2015,September,39,23,0,3,2,0.0,0,HB,ESP,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,52.0,,33,Transient-Party,224.67,0,0,Check-Out,2015-09-26,43814,Neha Gupta
+City Hotel,0,135,2016,August,32,2,0,2,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,130.5,1,0,Check-Out,2016-08-04,94533,Arjun Sharma
+City Hotel,1,327,2015,September,37,9,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75543,Rohan Mehta
+City Hotel,0,184,2017,July,28,15,0,1,2,0.0,0,BB,BEL,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,89.1,0,1,Check-Out,2017-07-16,116273,Amit Singh
+City Hotel,1,451,2016,May,21,16,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2016-03-14,51330,Diya Kapoor
+City Hotel,1,56,2017,March,12,21,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,86.0,,0,Transient,85.0,0,0,Canceled,2017-01-24,65088,Manish Yadav
+Resort Hotel,0,14,2016,March,12,19,2,3,2,0.0,0,Undefined,ESP,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,196.0,,0,Transient,58.0,0,0,Check-Out,2016-03-24,22496,Vivek Patel
+Resort Hotel,0,0,2015,October,40,3,0,1,1,0.0,0,BB,AUT,Direct,Direct,0,0,0,A,C,0,No Deposit,,,0,Transient,74.0,1,0,Check-Out,2015-10-04,2233,Kunal Joshi
+City Hotel,0,6,2017,June,26,30,0,1,2,0.0,0,SC,SWE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,160.0,0,1,Check-Out,2017-07-01,115157,Manish Yadav
+City Hotel,0,2,2017,March,11,16,0,1,1,0.0,0,BB,PRT,Aviation,Corporate,1,0,3,D,D,0,No Deposit,,153.0,0,Transient,95.0,0,2,Check-Out,2017-03-17,85913,Priya Nair
+City Hotel,0,159,2017,July,28,11,0,1,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,89.1,0,1,Check-Out,2017-07-12,115957,Diya Kapoor
+City Hotel,0,20,2017,January,5,30,1,0,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,410.0,0,Transient-Party,80.0,0,0,Check-Out,2017-01-31,105246,Arjun Sharma
+Resort Hotel,0,83,2016,July,31,25,3,5,1,0.0,0,BB,GBR,Groups,Corporate,0,0,0,A,I,1,No Deposit,307.0,,0,Transient-Party,139.0,0,0,Check-Out,2016-08-02,7288,Neha Gupta
+City Hotel,0,92,2015,November,48,26,0,3,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient,49.07,0,1,Check-Out,2015-11-29,45990,Kritika Rao
+Resort Hotel,0,0,2017,January,4,26,0,2,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,72.0,1,0,Check-Out,2017-01-28,32576,Amit Singh
+City Hotel,0,195,2016,July,30,21,2,5,2,0.0,0,BB,NOR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,90.95,0,1,Check-Out,2016-07-28,93987,Aisha Khan
+City Hotel,1,279,2015,July,30,23,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,1,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.8,0,0,Canceled,2014-10-17,73891,Kunal Joshi
+Resort Hotel,0,21,2015,November,48,24,0,1,2,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,314.0,,0,Transient,38.4,1,2,Check-Out,2015-11-25,18745,Arjun Sharma
+Resort Hotel,1,253,2017,August,34,25,2,4,1,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,153.75,0,1,Canceled,2017-01-07,13765,Sameer Shah
+Resort Hotel,0,152,2017,April,14,5,1,4,2,0.0,0,BB,GBR,Groups,TA/TO,0,0,0,D,D,4,No Deposit,,223.0,0,Transient-Party,67.0,0,0,Check-Out,2017-04-10,35101,Manish Yadav
+City Hotel,0,59,2015,October,42,15,2,3,2,0.0,0,BB,NLD,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,83.0,,0,Contract,76.5,0,1,Check-Out,2015-10-20,45010,Sameer Shah
+City Hotel,1,41,2017,August,35,27,1,0,1,0.0,0,BB,AUT,Direct,Direct,0,0,0,A,A,1,No Deposit,14.0,,0,Transient,90.0,0,0,Canceled,2017-07-28,73693,Rohan Mehta
+City Hotel,1,104,2016,October,42,9,1,0,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,1,Canceled,2016-10-08,58338,Vivek Patel
+City Hotel,0,102,2015,August,34,21,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,76.5,0,1,Check-Out,2015-08-23,41770,Diya Kapoor
+City Hotel,1,65,2016,September,37,9,0,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,149.4,0,1,Canceled,2016-09-05,56696,Neha Gupta
+City Hotel,0,98,2016,March,12,17,2,3,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,73.95,0,0,Check-Out,2016-03-22,48253,Aisha Khan
+Resort Hotel,1,103,2017,March,13,27,1,1,2,0.0,0,BB,PRT,Groups,Corporate,0,0,0,E,E,0,Non Refund,495.0,,0,Transient,73.0,0,0,Canceled,2016-12-23,10794,Amit Singh
+City Hotel,0,159,2017,August,32,7,1,1,3,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,184.5,0,0,Check-Out,2017-08-09,117841,Kunal Joshi
+Resort Hotel,0,13,2015,December,52,23,0,4,1,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,240.0,,0,Transient,73.75,0,1,Check-Out,2015-12-27,19671,Rohan Mehta
+City Hotel,0,117,2016,November,47,13,2,0,2,0.0,0,SC,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.2,0,0,Check-Out,2016-11-15,101722,Sameer Shah
+City Hotel,0,155,2017,June,22,1,0,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,138.0,0,1,Check-Out,2017-06-04,113277,Arjun Sharma
+Resort Hotel,0,134,2015,August,35,29,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,140.0,0,2,Check-Out,2015-09-03,16699,Kunal Joshi
+Resort Hotel,1,52,2015,August,32,3,1,4,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,173.0,0,0,Canceled,2015-07-13,987,Kunal Joshi
+Resort Hotel,1,28,2017,May,20,14,2,5,2,2.0,0,BB,AUS,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,170.0,0,1,Canceled,2017-04-16,11636,Manish Yadav
+City Hotel,0,68,2016,February,8,20,2,5,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,27.0,,0,Transient,43.43,0,0,Check-Out,2016-02-27,84554,Kunal Joshi
+Resort Hotel,1,208,2017,May,18,1,1,4,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,81.0,0,0,Canceled,2016-10-06,11394,Sahil Bansal
+Resort Hotel,1,18,2017,February,7,12,2,0,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,58.0,0,0,Canceled,2017-01-26,10203,Aisha Khan
+City Hotel,0,4,2016,February,8,16,0,3,1,0.0,0,BB,PRT,Corporate,Corporate,1,0,5,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,1,Check-Out,2016-02-19,82210,Priya Nair
+City Hotel,0,50,2016,March,14,31,0,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,65.0,0,0,Check-Out,2016-04-03,86531,Riya Verma
+City Hotel,0,56,2016,November,48,22,0,4,3,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,119.0,0,2,Check-Out,2016-11-26,102404,Priya Nair
+City Hotel,0,70,2017,February,7,15,0,4,2,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,242.0,0,Transient-Party,78.0,0,0,Check-Out,2017-02-19,106069,Manish Yadav
+City Hotel,1,102,2016,October,42,9,1,0,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,1,Canceled,2016-10-08,58341,Tanvi Jain
+City Hotel,0,5,2015,September,37,9,0,2,1,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,114.0,0,2,Check-Out,2015-09-11,42752,Neha Gupta
+City Hotel,0,91,2017,May,20,18,0,1,2,0.0,0,BB,CN,Offline TA/TO,TA/TO,0,0,0,A,C,0,No Deposit,262.0,,0,Transient,89.1,0,0,Check-Out,2017-05-19,112114,Tanvi Jain
+Resort Hotel,0,0,2016,October,44,28,0,1,2,0.0,0,BB,IRL,Direct,Direct,1,0,0,D,D,0,No Deposit,,,0,Transient,78.0,0,1,Check-Out,2016-10-29,29518,Manish Yadav
+City Hotel,0,39,2016,September,38,16,1,2,2,2.0,0,BB,DNK,Direct,Direct,0,0,0,G,G,0,No Deposit,14.0,,0,Transient,226.95,0,2,Check-Out,2016-09-19,97764,Arjun Sharma
+City Hotel,0,6,2015,October,42,11,2,1,1,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,97.02,0,2,Check-Out,2015-10-14,78766,Tanvi Jain
+City Hotel,0,19,2015,October,41,6,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,1,0,0,A,A,0,No Deposit,82.0,,0,Transient-Party,90.0,0,0,Check-Out,2015-10-09,77507,Aisha Khan
+Resort Hotel,0,5,2015,November,48,22,2,0,1,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,40.0,0,1,Check-Out,2015-11-24,18682,Priya Nair
+City Hotel,1,187,2017,August,32,8,0,2,2,0.0,0,HB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,166.5,0,0,Canceled,2017-05-12,72958,Amit Singh
+City Hotel,0,191,2017,April,13,1,2,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,28.0,,0,Transient,75.0,0,0,Check-Out,2017-04-06,109168,Arjun Sharma
+City Hotel,0,157,2017,June,25,20,2,6,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,127.8,0,1,Check-Out,2017-06-28,114950,Neha Gupta
+City Hotel,0,172,2017,July,28,10,1,5,3,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,152.1,0,2,Check-Out,2017-07-16,116258,Neha Gupta
+Resort Hotel,0,12,2016,April,18,27,0,3,2,0.0,0,Undefined,PRT,Groups,Direct,0,0,0,A,A,1,No Deposit,385.0,,0,Transient-Party,85.33,0,0,Check-Out,2016-04-30,23730,Sameer Shah
+City Hotel,1,0,2015,September,39,26,0,1,2,0.0,0,BB,PRT,Direct,Direct,1,0,0,A,A,0,No Deposit,,,0,Transient,170.0,0,0,No-Show,2015-09-26,77868,Kritika Rao
+Resort Hotel,0,9,2016,January,4,17,1,0,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,76.0,0,1,Check-Out,2016-01-18,20267,Manish Yadav
+City Hotel,1,288,2016,April,17,21,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,50047,Sahil Bansal
+City Hotel,0,8,2015,September,40,29,0,3,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,0,Check-Out,2015-10-02,78147,Kunal Joshi
+City Hotel,0,63,2015,September,36,4,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,21.0,,0,Transient-Party,116.0,0,0,Check-Out,2015-09-06,42367,Kritika Rao
+Resort Hotel,1,54,2017,February,8,25,2,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,48.0,0,1,Canceled,2017-01-09,10409,Sahil Bansal
+City Hotel,0,198,2016,May,21,20,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,D,0,No Deposit,1.0,,98,Transient-Party,65.0,0,0,Check-Out,2016-05-21,89507,Arjun Sharma
+City Hotel,1,27,2017,June,23,6,0,1,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,D,D,4,No Deposit,9.0,,0,Transient,190.0,0,2,Canceled,2017-05-17,69880,Manish Yadav
+Resort Hotel,0,25,2015,November,45,3,0,4,1,0.0,0,BB,BEL,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,314.0,,0,Transient,47.6,0,0,Check-Out,2015-11-07,2974,Priya Nair
+City Hotel,0,46,2017,March,10,7,0,3,2,0.0,0,BB,CHE,Direct,Direct,0,0,0,A,A,1,No Deposit,14.0,,0,Transient,98.0,0,1,Check-Out,2017-03-10,107354,Kritika Rao
+City Hotel,1,188,2016,August,33,13,1,1,2,0.0,0,BB,ISR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,105.3,0,0,Canceled,2016-03-01,55537,Sahil Bansal
+Resort Hotel,0,3,2016,March,11,12,2,1,2,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,C,C,0,No Deposit,8.0,,0,Transient,8.0,0,0,Check-Out,2016-03-15,22087,Aisha Khan
+City Hotel,0,169,2017,July,27,2,1,0,2,0.0,0,BB,HUN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,107.1,0,0,Check-Out,2017-07-03,115270,Sahil Bansal
+City Hotel,0,1,2015,September,36,1,0,3,1,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,D,0,No Deposit,1.0,,0,Transient,0.0,0,0,Check-Out,2015-09-04,42272,Neha Gupta
+City Hotel,1,70,2017,July,31,31,1,2,3,0.0,0,BB,QAT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,230.0,0,1,Canceled,2017-05-23,72661,Kunal Joshi
+City Hotel,0,144,2016,July,31,25,1,5,2,0.0,0,BB,AUT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,100.87,0,1,Check-Out,2016-07-31,94188,Arjun Sharma
+Resort Hotel,0,21,2016,January,1,2,4,10,1,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,314.0,,0,Transient,46.07,0,0,Check-Out,2016-01-16,20182,Manish Yadav
+City Hotel,0,395,2017,May,20,17,0,3,2,0.0,0,BB,AUS,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,229.0,,0,Transient-Party,112.67,0,1,Check-Out,2017-05-20,112164,Aisha Khan
+City Hotel,1,59,2017,May,22,29,1,0,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,87.0,,0,Transient,140.0,0,0,Canceled,2017-05-11,69388,Arjun Sharma
+City Hotel,0,176,2017,May,20,15,1,2,2,0.0,0,BB,BEL,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,107.1,0,0,Check-Out,2017-05-18,112039,Sahil Bansal
+City Hotel,0,99,2016,February,8,19,0,2,1,0.0,0,BB,PRT,Corporate,TA/TO,0,0,0,A,A,1,No Deposit,,67.0,0,Transient-Party,81.0,0,0,Check-Out,2016-02-21,84356,Kunal Joshi
+City Hotel,1,96,2016,October,44,28,1,2,2,2.0,0,BB,GBR,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,162.9,0,1,Canceled,2016-10-23,59606,Neha Gupta
+City Hotel,0,16,2015,September,39,25,2,3,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,170.0,0,0,Check-Out,2015-09-30,78098,Riya Verma
+City Hotel,1,93,2017,June,25,22,2,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,132.0,,0,Transient-Party,99.0,0,0,Canceled,2017-06-05,70886,Arjun Sharma
+City Hotel,0,207,2015,August,34,21,2,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient-Party,76.5,0,3,Check-Out,2015-08-26,77095,Neha Gupta
+City Hotel,1,56,2017,March,12,21,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,86.0,,0,Transient,85.0,0,0,Canceled,2017-01-24,65094,Vivek Patel
+Resort Hotel,0,244,2017,June,25,20,4,10,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,40.0,,0,Contract,84.8,0,1,Check-Out,2017-07-04,38048,Sameer Shah
+City Hotel,0,50,2016,November,47,17,0,1,2,0.0,0,SC,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.2,0,1,Check-Out,2016-11-18,101902,Manish Yadav
+Resort Hotel,0,251,2017,June,26,26,1,3,2,0.0,0,HB,CN,Groups,TA/TO,0,0,0,D,F,0,No Deposit,96.0,,0,Transient-Party,108.0,0,1,Check-Out,2017-06-30,37894,Kritika Rao
+City Hotel,0,10,2017,February,6,8,0,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,79.0,0,0,Check-Out,2017-02-10,105606,Sameer Shah
+City Hotel,1,125,2017,June,24,15,2,3,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,122.4,0,0,Canceled,2017-02-15,70466,Priya Nair
+Resort Hotel,1,468,2016,May,20,12,0,2,2,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,249.0,,0,Transient-Party,67.0,0,0,Canceled,2016-03-04,5808,Amit Singh
+City Hotel,0,14,2015,September,36,1,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Contract,105.0,0,2,Check-Out,2015-09-02,77124,Amit Singh
+Resort Hotel,0,112,2017,March,11,15,0,3,1,0.0,0,BB,BRA,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,477.0,0,Transient-Party,40.0,0,0,Check-Out,2017-03-18,34351,Aisha Khan
+City Hotel,1,245,2016,June,25,17,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,12.0,,0,Transient,75.0,0,0,Canceled,2016-02-09,53337,Vivek Patel
+City Hotel,1,82,2017,May,18,3,0,3,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,0,Canceled,2017-04-19,67507,Rohan Mehta
+City Hotel,0,40,2015,December,52,26,2,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,11.0,,0,Transient,64.15,0,0,Check-Out,2015-12-31,82564,Diya Kapoor
+City Hotel,0,40,2017,July,31,31,1,0,2,0.0,0,SC,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,140.0,0,1,Check-Out,2017-08-01,117314,Neha Gupta
+Resort Hotel,0,542,2016,September,40,26,2,5,2,0.0,0,HB,GBR,Groups,TA/TO,0,0,0,A,A,1,No Deposit,253.0,,0,Transient-Party,68.0,0,0,Check-Out,2016-10-03,28528,Aisha Khan
+City Hotel,0,15,2017,March,10,8,0,3,1,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,121.33,0,1,Check-Out,2017-03-11,107403,Arjun Sharma
+City Hotel,0,21,2017,August,31,1,0,4,2,0.0,0,BB,CN,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,159.0,0,1,Check-Out,2017-08-05,117590,Kritika Rao
+Resort Hotel,1,385,2016,September,39,21,0,4,2,0.0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,Non Refund,,,0,Transient,66.0,0,0,Canceled,2015-10-14,8412,Kunal Joshi
+City Hotel,0,51,2017,March,10,8,0,0,0,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,28.0,,0,Transient,0.0,0,0,Check-Out,2017-03-08,107255,Kunal Joshi
+City Hotel,1,146,2016,April,18,24,2,0,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,26.0,,50,Transient,95.0,0,0,Canceled,2016-01-19,50246,Diya Kapoor
+City Hotel,0,2,2017,January,3,21,2,1,1,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,48.05,0,1,Check-Out,2017-01-24,104983,Aisha Khan
+Resort Hotel,0,19,2016,July,30,21,0,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,194.33,1,1,Check-Out,2016-07-24,26294,Amit Singh
+City Hotel,0,4,2017,March,12,22,0,1,1,0.0,0,BB,GBR,Direct,Direct,0,0,0,A,A,1,No Deposit,14.0,,0,Transient,94.0,0,0,Check-Out,2017-03-23,108223,Tanvi Jain
+City Hotel,1,4,2017,February,8,21,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,,0,Group,80.0,0,0,Canceled,2017-02-20,63894,Neha Gupta
+City Hotel,1,59,2017,August,34,24,0,2,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,129.0,0,1,Canceled,2017-06-26,73589,Priya Nair
+City Hotel,0,2,2016,May,20,14,1,1,2,1.0,0,BB,PRT,Direct,Direct,0,0,0,G,G,2,No Deposit,,,0,Transient,90.0,1,1,Check-Out,2016-05-16,89111,Neha Gupta
+Resort Hotel,0,140,2017,June,24,13,2,5,1,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,C,1,No Deposit,242.0,,0,Transient,110.0,0,0,Check-Out,2017-06-20,37591,Kritika Rao
+Resort Hotel,0,37,2016,May,20,8,2,0,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,168.0,,0,Transient,46.0,0,1,Check-Out,2016-05-10,24111,Neha Gupta
+City Hotel,1,37,2016,October,42,13,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,56.0,,0,Transient-Party,105.0,0,0,Canceled,2016-09-06,58659,Arjun Sharma
+City Hotel,0,12,2016,May,20,11,0,4,2,0.0,0,BB,CHE,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,138.0,,0,Transient,104.0,0,0,Check-Out,2016-05-15,89027,Tanvi Jain
+City Hotel,0,7,2015,September,38,16,0,2,1,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,13.0,,0,Contract,113.6,0,0,Check-Out,2015-09-18,43307,Riya Verma
+Resort Hotel,0,104,2015,September,36,2,1,4,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,241.0,,0,Transient,71.69,0,0,Check-Out,2015-09-07,1623,Riya Verma
+Resort Hotel,1,196,2016,August,36,29,2,5,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,314.0,,0,Transient,121.47,0,1,Canceled,2016-08-17,7944,Aisha Khan
+City Hotel,0,0,2016,January,4,22,1,2,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,106.0,0,1,Check-Out,2016-01-25,83327,Sahil Bansal
+City Hotel,1,10,2016,January,1,2,2,1,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,B,B,0,No Deposit,9.0,,0,Transient,83.58,0,0,Canceled,2015-12-31,46550,Riya Verma
+City Hotel,1,98,2017,March,9,3,0,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,97.2,0,0,Canceled,2017-01-19,64357,Arjun Sharma
+City Hotel,0,16,2016,December,50,9,1,2,2,0.0,0,BB,DEU,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,81.09,0,1,Check-Out,2016-12-12,103229,Tanvi Jain
+Resort Hotel,0,4,2016,August,32,4,1,3,2,0.0,1,HB,PRT,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,253.5,0,1,Check-Out,2016-08-08,26799,Rohan Mehta
+City Hotel,0,22,2016,April,16,14,2,3,3,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,152.6,0,2,Check-Out,2016-04-19,87491,Tanvi Jain
+City Hotel,0,85,2016,April,14,1,0,2,1,0.0,0,BB,SWE,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient-Party,81.9,0,0,Check-Out,2016-04-03,48977,Tanvi Jain
+City Hotel,0,301,2016,July,31,30,1,1,1,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,6.0,,0,Transient-Party,90.0,0,0,Check-Out,2016-08-01,94281,Tanvi Jain
+City Hotel,1,95,2016,November,45,5,0,1,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,75.0,0,0,Canceled,2016-10-21,60158,Priya Nair
+Resort Hotel,0,364,2016,October,42,12,1,4,2,0.0,0,BB,GBR,Groups,Corporate,0,0,0,A,A,1,No Deposit,,223.0,0,Transient-Party,66.0,0,0,Check-Out,2016-10-17,8869,Vivek Patel
+City Hotel,0,164,2015,October,40,2,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,19.0,,0,Transient-Party,100.0,0,0,Check-Out,2015-10-04,44305,Amit Singh
+City Hotel,0,42,2017,June,23,10,1,1,2,0.0,0,BB,CN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,130.0,0,1,Check-Out,2017-06-12,113886,Diya Kapoor
+Resort Hotel,0,203,2017,May,21,25,1,3,2,0.0,0,BB,GBR,Groups,TA/TO,0,0,0,A,A,4,No Deposit,,223.0,0,Transient-Party,55.0,1,0,Check-Out,2017-05-29,36905,Arjun Sharma
+City Hotel,0,56,2015,September,38,17,0,2,2,0.0,0,HB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,20.0,,0,Transient-Party,82.0,0,0,Check-Out,2015-09-19,43358,Neha Gupta
+Resort Hotel,0,0,2016,February,9,27,0,1,2,1.0,0,HB,PRT,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,146.0,1,0,Check-Out,2016-02-28,21476,Amit Singh
+Resort Hotel,1,18,2016,May,22,27,0,2,2,2.0,0,BB,USA,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,145.0,0,1,Canceled,2016-05-14,6285,Tanvi Jain
+City Hotel,1,129,2017,June,22,2,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,154.0,,0,Transient,130.0,0,0,Canceled,2017-01-24,69709,Amit Singh
+City Hotel,0,9,2015,August,34,19,0,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,81.0,0,1,Check-Out,2015-08-22,41696,Aisha Khan
+City Hotel,1,304,2015,August,34,17,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74547,Rohan Mehta
+Resort Hotel,0,0,2015,November,45,3,0,1,1,0.0,0,BB,,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient,40.0,0,0,Check-Out,2015-11-04,14524,Kritika Rao
+Resort Hotel,1,260,2015,September,38,19,2,5,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,96.0,,0,Transient,54.99,0,0,Canceled,2015-06-17,15300,Tanvi Jain
+Resort Hotel,0,96,2017,March,11,12,4,7,2,0.0,0,HB,GBR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,52.55,0,0,Check-Out,2017-03-23,34501,Manish Yadav
+Resort Hotel,1,172,2017,August,34,26,0,1,3,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Transient,207.0,0,0,Canceled,2017-03-08,13775,Amit Singh
+City Hotel,0,39,2015,August,33,14,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-08-16,41342,Vivek Patel
+City Hotel,0,65,2016,March,14,28,1,2,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient-Party,103.5,0,2,Check-Out,2016-03-31,86346,Tanvi Jain
+City Hotel,0,0,2016,May,20,14,0,1,2,0.0,0,BB,PRT,Complementary,Direct,0,0,0,A,B,0,No Deposit,,,0,Transient,0.0,0,0,Check-Out,2016-05-15,89062,Amit Singh
+Resort Hotel,0,126,2017,May,18,2,0,2,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,6.0,,0,Transient,64.8,1,0,Check-Out,2017-05-04,35989,Sameer Shah
+City Hotel,1,68,2016,February,8,17,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,37.0,,0,Transient,75.0,0,0,Canceled,2016-01-06,82928,Riya Verma
+City Hotel,0,27,2017,July,27,2,2,0,2,2.0,0,BB,BRA,Online TA,TA/TO,0,0,0,F,F,2,No Deposit,9.0,,0,Transient,250.0,0,0,Check-Out,2017-07-04,115394,Tanvi Jain
+Resort Hotel,0,44,2016,May,21,18,0,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,81.0,1,1,Check-Out,2016-05-20,24497,Aisha Khan
+Resort Hotel,1,157,2017,August,34,22,0,4,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,F,F,0,No Deposit,250.0,,0,Transient,237.5,0,0,Canceled,2017-07-05,13715,Vivek Patel
+City Hotel,1,19,2015,September,39,21,1,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,20.0,,0,Transient-Party,48.0,0,0,Canceled,2015-09-11,43706,Amit Singh
+City Hotel,0,0,2016,April,18,29,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,B,0,No Deposit,29.0,,0,Transient-Party,100.0,0,0,Check-Out,2016-05-01,88224,Kunal Joshi
+Resort Hotel,0,61,2017,May,21,26,1,2,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,241.0,,0,Transient,68.0,0,1,Check-Out,2017-05-29,36903,Sameer Shah
+City Hotel,0,172,2016,July,31,26,1,5,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,27.0,,0,Transient,72.25,0,0,Check-Out,2016-08-01,94299,Manish Yadav
+City Hotel,1,199,2016,October,44,28,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,29.0,,0,Transient-Party,95.0,0,0,Canceled,2016-10-21,59526,Kritika Rao
+City Hotel,1,267,2016,March,14,31,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,48932,Neha Gupta
+City Hotel,0,39,2017,June,23,9,0,2,3,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,220.0,0,1,Check-Out,2017-06-11,113814,Amit Singh
+Resort Hotel,0,26,2017,April,16,17,1,0,1,0.0,0,BB,PRT,Corporate,Corporate,0,1,8,A,A,0,No Deposit,,82.0,0,Transient,45.0,0,0,Check-Out,2017-04-18,13982,Kunal Joshi
+Resort Hotel,1,82,2016,February,7,7,2,0,2,0.0,0,Undefined,PRT,Groups,TA/TO,1,1,0,A,A,0,No Deposit,67.0,,0,Transient-Party,66.0,0,0,Canceled,2016-01-26,18447,Kunal Joshi
+City Hotel,1,350,2016,September,40,30,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,4.0,,17,Transient,90.0,0,0,Canceled,2015-11-02,79828,Kritika Rao
+City Hotel,1,82,2017,May,19,8,1,5,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,141.0,0,0,Canceled,2017-02-15,67978,Diya Kapoor
+City Hotel,0,84,2017,March,12,25,2,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,100.3,0,1,Check-Out,2017-03-29,108671,Sameer Shah
+City Hotel,0,0,2016,June,26,20,1,1,1,0.0,0,BB,ITA,Direct,Direct,0,0,0,A,D,1,No Deposit,,,0,Transient,123.25,0,0,Check-Out,2016-06-22,91530,Vivek Patel
+Resort Hotel,0,191,2016,April,17,22,1,2,2,0.0,0,Undefined,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,,,0,Transient-Party,85.33,0,0,Check-Out,2016-04-25,5311,Riya Verma
+Resort Hotel,0,272,2015,September,40,30,0,3,1,0.0,0,HB,FRA,Offline TA/TO,TA/TO,0,0,0,A,A,2,No Deposit,256.0,,0,Transient-Party,0.0,0,0,Check-Out,2015-10-03,17385,Kunal Joshi
+City Hotel,0,49,2016,January,3,15,0,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,69.22,0,1,Check-Out,2016-01-17,83148,Aisha Khan
+City Hotel,1,364,2015,October,42,16,0,2,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,6.0,,0,Transient-Party,101.5,0,0,Canceled,2015-07-06,76192,Priya Nair
+City Hotel,1,300,2016,November,46,11,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,65.0,0,0,Canceled,2016-03-14,60552,Arjun Sharma
+City Hotel,0,78,2016,December,52,20,1,5,3,0.0,0,BB,AUS,Direct,Direct,0,0,0,G,A,0,No Deposit,14.0,,0,Transient-Party,119.4,0,2,Check-Out,2016-12-26,103588,Rohan Mehta
+City Hotel,1,50,2016,June,26,21,0,3,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.1,0,0,Canceled,2016-05-24,53575,Vivek Patel
+City Hotel,0,67,2017,May,18,2,0,3,2,0.0,0,BB,NOR,Groups,Corporate,0,0,0,A,A,0,No Deposit,,409.0,0,Transient-Party,120.0,0,0,Check-Out,2017-05-05,111094,Priya Nair
+City Hotel,0,39,2017,June,23,9,0,2,2,0.0,0,SC,NLD,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,28.0,,0,Transient,89.0,0,0,Check-Out,2017-06-11,113818,Kunal Joshi
+City Hotel,0,8,2016,September,38,15,0,1,1,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,159.0,0,0,Check-Out,2016-09-16,97471,Rohan Mehta
+City Hotel,1,32,2017,June,26,28,0,3,3,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,216.67,0,0,Canceled,2017-05-27,71211,Neha Gupta
+Resort Hotel,0,7,2017,March,9,2,1,3,2,0.0,0,BB,GBR,Groups,Corporate,0,0,0,D,D,0,No Deposit,,223.0,0,Transient-Party,47.0,0,0,Check-Out,2017-03-06,33984,Diya Kapoor
+Resort Hotel,0,96,2017,March,12,19,2,5,2,0.0,0,BB,DEU,Groups,TA/TO,0,0,0,A,A,1,No Deposit,177.0,,0,Transient-Party,34.0,0,0,Check-Out,2017-03-26,34567,Rohan Mehta
+City Hotel,0,1,2015,October,41,9,2,2,2,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,145.0,0,2,Check-Out,2015-10-13,78715,Riya Verma
+City Hotel,1,42,2016,December,51,11,2,3,2,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,88.4,0,2,Canceled,2016-11-02,61551,Tanvi Jain
+City Hotel,0,36,2015,October,42,13,0,3,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,26.0,,0,Transient-Party,112.0,0,0,Check-Out,2015-10-16,44956,Aisha Khan
+City Hotel,0,0,2015,November,46,14,0,1,2,0.0,0,SC,DEU,Online TA,TA/TO,0,0,0,A,A,3,No Deposit,9.0,,0,Contract,85.0,0,2,Check-Out,2015-11-15,80348,Sahil Bansal
+Resort Hotel,0,317,2017,April,17,23,2,5,2,0.0,0,HB,GBR,Groups,TA/TO,0,0,0,D,D,1,No Deposit,273.0,,64,Transient-Party,78.94,0,0,Check-Out,2017-04-30,35804,Diya Kapoor
+City Hotel,0,12,2016,October,42,12,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,1,3,18,A,D,0,No Deposit,,40.0,0,Transient,67.0,1,0,Check-Out,2016-10-13,78426,Diya Kapoor
+City Hotel,0,87,2016,August,35,27,2,4,3,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,112.03,0,2,Check-Out,2016-09-02,96501,Kritika Rao
+Resort Hotel,1,67,2016,October,41,6,1,3,2,2.0,0,BB,GBR,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,139.0,0,0,Canceled,2016-08-03,8689,Aisha Khan
+City Hotel,0,34,2016,February,7,8,1,4,1,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,73.9,0,0,Check-Out,2016-02-13,47224,Arjun Sharma
+City Hotel,0,176,2017,March,10,9,0,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,28.0,,0,Transient,75.0,0,0,Check-Out,2017-03-12,107451,Manish Yadav
+City Hotel,0,6,2017,June,24,13,0,2,2,0.0,0,BB,LUX,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,85.0,,0,Transient,99.0,0,0,Check-Out,2017-06-15,114078,Vivek Patel
+City Hotel,0,6,2015,December,50,10,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,0.0,0,1,Check-Out,2015-12-12,81549,Vivek Patel
+City Hotel,0,221,2017,June,25,23,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,138.0,,0,Transient,89.1,0,2,Check-Out,2017-06-25,114701,Kunal Joshi
+City Hotel,0,104,2017,March,12,19,2,5,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,20.0,,0,Transient-Party,75.0,0,1,Check-Out,2017-03-26,108386,Rohan Mehta
+City Hotel,1,56,2017,February,5,1,0,3,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,60.0,0,0,Canceled,2016-12-07,63284,Kritika Rao
+City Hotel,0,0,2016,March,11,7,1,0,1,0.0,0,BB,ESP,Corporate,Corporate,0,0,0,A,A,0,No Deposit,91.0,,0,Transient,80.0,0,0,Check-Out,2016-03-08,85121,Riya Verma
+Resort Hotel,0,243,2016,October,41,6,2,3,1,0.0,0,BB,IRL,Groups,TA/TO,0,0,0,D,D,1,No Deposit,91.0,,0,Transient-Party,53.1,0,0,Check-Out,2016-10-11,28917,Aisha Khan
+Resort Hotel,1,35,2016,December,50,7,0,4,2,1.0,0,FB,PRT,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,314.0,,0,Transient,120.5,0,0,Canceled,2016-11-24,9627,Neha Gupta
+Resort Hotel,0,4,2015,July,30,19,2,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,154.5,1,2,Check-Out,2015-07-21,644,Aisha Khan
+City Hotel,0,1,2016,January,1,2,2,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,74.93,0,0,Check-Out,2016-01-05,46558,Priya Nair
+City Hotel,0,65,2016,November,48,20,1,0,1,0.0,0,SC,NOR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.2,0,0,Check-Out,2016-11-21,102084,Kritika Rao
+City Hotel,0,9,2017,July,28,14,0,2,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,149.0,0,1,Check-Out,2017-07-16,116308,Kritika Rao
+Resort Hotel,0,153,2016,April,16,14,0,3,3,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,240.0,,0,Transient-Party,123.0,0,2,Check-Out,2016-04-17,23294,Kritika Rao
+City Hotel,1,132,2016,July,28,5,0,4,2,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,105.83,0,0,Canceled,2016-03-05,54110,Priya Nair
+City Hotel,1,104,2016,June,24,9,0,3,2,0.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,126.9,0,0,Canceled,2016-03-01,52802,Sahil Bansal
+Resort Hotel,1,41,2015,November,46,12,1,3,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,1,No Deposit,185.0,281.0,0,Transient-Party,36.0,0,0,Canceled,2015-11-09,3165,Kunal Joshi
+City Hotel,0,14,2017,February,7,13,1,0,3,0.0,0,BB,KOR,Direct,Direct,0,0,0,A,D,2,No Deposit,14.0,,0,Transient,98.0,0,1,Check-Out,2017-02-14,105775,Tanvi Jain
+City Hotel,1,178,2016,September,37,9,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,29.0,,0,Transient,135.0,0,0,Canceled,2016-03-23,56691,Sahil Bansal
+Resort Hotel,0,77,2015,October,41,9,0,2,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Contract,56.0,1,1,Check-Out,2015-10-11,2397,Kunal Joshi
+City Hotel,0,0,2017,March,11,14,0,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,F,F,0,No Deposit,28.0,,0,Transient,65.0,0,0,Check-Out,2017-03-15,107692,Neha Gupta
+City Hotel,0,36,2016,March,10,1,0,1,1,0.0,0,BB,DEU,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,185.0,0,Transient-Party,86.5,0,0,Check-Out,2016-03-02,84793,Kunal Joshi
+Resort Hotel,0,83,2016,November,46,12,2,5,1,0.0,0,HB,DEU,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,314.0,,0,Transient,57.64,0,0,Check-Out,2016-11-19,30404,Amit Singh
+City Hotel,1,3,2016,February,9,25,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,1,0,3,A,A,0,No Deposit,,40.0,0,Transient-Party,66.0,0,1,Canceled,2016-02-25,78391,Arjun Sharma
+Resort Hotel,1,96,2016,October,42,9,2,1,2,0.0,0,BB,PRT,Groups,Corporate,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,55.0,0,0,Canceled,2016-09-07,8783,Kritika Rao
+Resort Hotel,0,22,2015,October,41,9,2,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,83.0,1,2,Check-Out,2015-10-13,2440,Kritika Rao
+City Hotel,0,40,2016,October,42,10,1,2,2,0.0,0,BB,NLD,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,85.0,,0,Transient,85.5,0,0,Check-Out,2016-10-13,99504,Arjun Sharma
+City Hotel,1,437,2016,May,19,2,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2016-03-14,50605,Priya Nair
+City Hotel,0,66,2015,November,47,19,0,1,2,0.0,0,BB,IND,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Contract,81.9,0,2,Check-Out,2015-11-20,80707,Kunal Joshi
+City Hotel,1,323,2015,September,36,5,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75496,Rohan Mehta
+Resort Hotel,1,31,2017,August,34,25,2,2,2,0.0,0,BB,GIB,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,240.0,,0,Transient,250.0,0,2,Canceled,2017-08-13,13760,Kritika Rao
+City Hotel,1,89,2015,October,40,3,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-09-09,44418,Manish Yadav
+City Hotel,0,17,2015,August,35,29,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient-Party,90.0,0,1,Check-Out,2015-08-30,42075,Kunal Joshi
+Resort Hotel,0,89,2017,April,15,14,0,2,3,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,240.0,,0,Transient-Party,122.0,0,3,Check-Out,2017-04-16,35318,Arjun Sharma
+City Hotel,0,41,2016,April,16,12,0,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,105.3,0,0,Check-Out,2016-04-15,87246,Kunal Joshi
+City Hotel,1,88,2017,May,20,17,0,3,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.0,0,0,Canceled,2017-02-18,68535,Amit Singh
+City Hotel,0,56,2016,November,46,11,2,2,2,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,74.8,0,3,Check-Out,2016-11-15,101709,Neha Gupta
+City Hotel,0,225,2017,June,26,29,0,3,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,95.7,0,3,Check-Out,2017-07-02,115204,Vivek Patel
+City Hotel,1,1,2016,January,4,23,2,1,2,0.0,0,SC,AGO,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,79.0,0,0,No-Show,2016-01-23,46986,Riya Verma
+Resort Hotel,0,0,2015,October,44,27,0,1,1,0.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,45.0,0,0,Check-Out,2015-10-28,2808,Tanvi Jain
+Resort Hotel,1,209,2016,July,28,8,2,5,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,163.0,0,0,Canceled,2016-04-01,6973,Manish Yadav
+Resort Hotel,0,0,2017,February,9,27,1,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient-Party,62.0,1,0,Check-Out,2017-03-01,33808,Rohan Mehta
+City Hotel,1,96,2017,May,19,11,0,3,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,147.0,0,0,Canceled,2017-02-15,68115,Priya Nair
+City Hotel,0,113,2016,April,16,15,0,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,96.3,0,1,Check-Out,2016-04-17,49687,Riya Verma
+City Hotel,0,32,2017,February,9,26,2,2,2,0.0,0,SC,BEL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,74.8,0,2,Check-Out,2017-03-02,106837,Sameer Shah
+City Hotel,1,326,2015,September,37,8,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2015-05-28,75003,Sameer Shah
+City Hotel,1,405,2016,August,34,18,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,62.0,0,0,Canceled,2015-10-21,55756,Sameer Shah
+City Hotel,0,6,2017,February,5,4,2,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,100.3,0,3,Check-Out,2017-02-09,105560,Sameer Shah
+City Hotel,1,396,2017,April,17,25,0,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,229.0,,0,Transient,90.0,0,0,Canceled,2016-04-17,66869,Amit Singh
+Resort Hotel,0,128,2016,September,40,30,2,5,2,0.0,0,BB,IRL,Direct,Direct,0,0,0,F,F,0,No Deposit,250.0,,0,Transient,96.23,0,0,Check-Out,2016-10-07,28708,Sameer Shah
+City Hotel,1,4,2017,February,8,21,0,3,0,0.0,0,SC,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,0.0,0,0,Canceled,2017-02-17,63897,Rohan Mehta
+City Hotel,0,111,2017,April,14,3,1,1,2,0.0,0,BB,ISR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,0,Transient-Party,95.0,0,1,Check-Out,2017-04-05,109111,Sahil Bansal
+Resort Hotel,1,233,2017,August,34,21,1,5,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,153.75,0,2,Canceled,2017-01-13,13703,Manish Yadav
+Resort Hotel,0,0,2016,February,7,8,1,0,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,A,A,2,No Deposit,,,0,Transient,55.0,0,0,Check-Out,2016-02-09,20864,Sameer Shah
+City Hotel,0,8,2017,August,34,23,0,2,2,0.0,0,SC,AUS,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,129.5,0,0,Check-Out,2017-08-25,118893,Neha Gupta
+City Hotel,0,206,2017,August,31,3,1,3,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,144.0,0,0,Check-Out,2017-08-07,117705,Neha Gupta
+City Hotel,0,48,2015,October,40,2,1,2,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,73.51,0,0,Check-Out,2015-10-05,44371,Kunal Joshi
+City Hotel,0,19,2016,September,38,12,1,0,2,0.0,0,SC,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.0,0,0,Check-Out,2016-09-13,97265,Vivek Patel
+Resort Hotel,1,134,2016,August,34,17,2,4,3,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,274.0,0,0,Canceled,2016-06-30,7734,Diya Kapoor
+Resort Hotel,0,5,2016,September,36,3,2,2,2,0.0,0,BB,IRL,Direct,Direct,0,0,0,F,F,0,No Deposit,250.0,,0,Transient,170.1,0,0,Check-Out,2016-09-07,27789,Rohan Mehta
+Resort Hotel,0,0,2016,November,46,11,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,85.0,0,0,Check-Out,2016-11-12,30145,Diya Kapoor
+City Hotel,0,12,2017,February,8,20,1,1,1,0.0,0,BB,ESP,Online TA,GDS,0,0,0,A,A,0,No Deposit,195.0,,0,Transient,90.0,0,0,Check-Out,2017-02-22,106246,Neha Gupta
+City Hotel,1,283,2016,October,43,16,2,0,2,0.0,0,HB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,96.0,0,0,Canceled,2016-02-09,58939,Rohan Mehta
+City Hotel,1,326,2015,September,37,8,0,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient,60.0,0,0,Canceled,2015-05-28,74996,Tanvi Jain
+Resort Hotel,0,84,2017,April,16,18,1,5,1,0.0,0,BB,ITA,Direct,Direct,0,0,0,E,E,1,No Deposit,,,0,Transient-Party,74.6,0,0,Check-Out,2017-04-24,35588,Sahil Bansal
+City Hotel,0,86,2015,September,37,9,0,2,1,0.0,0,BB,FRA,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,68.0,0,Transient-Party,90.0,0,0,Check-Out,2015-09-11,42843,Kritika Rao
+Resort Hotel,0,204,2016,August,32,5,2,4,2,0.0,0,BB,CHE,Online TA,TA/TO,0,0,0,E,F,0,No Deposit,242.0,,0,Transient,159.5,0,2,Check-Out,2016-08-11,26868,Vivek Patel
+Resort Hotel,0,1,2016,April,18,29,0,2,2,0.0,0,BB,PRT,Corporate,Corporate,1,0,1,D,D,0,No Deposit,,402.0,0,Transient,72.5,0,0,Check-Out,2016-05-01,22149,Kritika Rao
+City Hotel,1,100,2015,October,44,31,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-10-19,45610,Amit Singh
+City Hotel,0,0,2016,December,49,1,0,2,1,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,96.0,0,1,Check-Out,2016-12-03,102721,Tanvi Jain
+Resort Hotel,0,5,2016,February,7,8,6,15,2,0.0,0,Undefined,FRA,Offline TA/TO,TA/TO,0,0,0,A,E,1,No Deposit,363.0,,0,Transient,75.81,1,0,Check-Out,2016-02-29,21514,Neha Gupta
+City Hotel,0,104,2016,May,20,14,2,1,3,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient-Party,159.3,0,2,Check-Out,2016-05-17,89131,Riya Verma
+City Hotel,0,19,2015,September,39,20,1,0,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,E,1,No Deposit,14.0,84.0,0,Transient,124.0,0,0,Check-Out,2015-09-21,43681,Sameer Shah
+Resort Hotel,0,1,2015,December,50,12,0,1,2,0.0,1,HB,PRT,Direct,Direct,0,0,0,A,D,0,No Deposit,,,0,Transient,79.0,1,1,Check-Out,2015-12-13,19395,Sameer Shah
+Resort Hotel,0,83,2017,January,2,10,4,10,1,0.0,0,HB,GBR,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,147.0,,0,Transient,50.96,0,0,Check-Out,2017-01-24,32460,Riya Verma
+City Hotel,0,56,2015,November,45,6,1,2,2,0.0,0,BB,ESP,Offline TA/TO,TA/TO,0,0,0,D,A,0,No Deposit,28.0,,0,Transient,60.0,0,1,Check-Out,2015-11-09,45656,Sameer Shah
+City Hotel,1,111,2017,June,26,29,0,1,2,2.0,0,BB,FRA,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,230.0,0,0,Canceled,2017-03-14,71268,Neha Gupta
+City Hotel,1,265,2016,November,48,20,2,1,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,78.3,0,2,Canceled,2016-09-23,60869,Arjun Sharma
+City Hotel,0,93,2017,April,16,21,2,6,2,1.0,0,HB,EST,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,184.5,0,1,Check-Out,2017-04-29,110695,Amit Singh
+City Hotel,0,53,2017,June,26,25,1,0,1,0.0,0,SC,BRA,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,120.0,0,1,Check-Out,2017-06-26,114780,Arjun Sharma
+City Hotel,1,305,2016,November,45,4,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,21.0,,0,Transient,89.0,0,0,Canceled,2016-02-01,60146,Kunal Joshi
+Resort Hotel,0,336,2016,September,38,15,1,3,2,0.0,0,BB,GBR,Groups,Direct,0,0,0,A,A,1,No Deposit,,223.0,0,Transient-Party,73.5,1,0,Check-Out,2016-09-19,28167,Kunal Joshi
+City Hotel,0,188,2016,August,33,8,1,1,2,1.0,0,HB,ITA,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,9.0,,0,Transient,164.25,0,1,Check-Out,2016-08-10,94886,Riya Verma
+Resort Hotel,0,0,2015,December,51,18,0,1,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,1,0,1,A,A,0,No Deposit,127.0,,0,Transient,30.5,0,1,Check-Out,2015-12-19,15244,Kunal Joshi
+City Hotel,0,175,2016,July,29,10,4,6,2,0.0,0,BB,NOR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,8.0,,0,Transient,99.45,0,1,Check-Out,2016-07-20,93429,Diya Kapoor
+City Hotel,0,52,2017,April,17,28,0,1,2,0.0,0,BB,CN,Corporate,Corporate,0,0,0,A,A,1,Refundable,,40.0,0,Transient-Party,77.0,1,1,Check-Out,2017-04-29,110710,Vivek Patel
+Resort Hotel,1,11,2015,December,49,5,2,1,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,,,0,Transient-Party,68.0,0,0,Canceled,2015-12-02,18981,Manish Yadav
+City Hotel,1,194,2016,July,28,9,2,1,0,2.0,0,BB,NLD,Online TA,TA/TO,0,0,0,B,B,1,No Deposit,9.0,,0,Transient,86.63,0,0,Canceled,2015-12-30,54325,Arjun Sharma
+City Hotel,0,18,2016,June,25,13,1,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,A,0,No Deposit,7.0,,0,Transient,97.02,0,0,Check-Out,2016-06-14,91053,Sahil Bansal
+City Hotel,0,2,2016,May,19,4,0,1,1,0.0,0,BB,PRT,Aviation,Corporate,0,0,0,A,A,0,No Deposit,,153.0,0,Transient,95.0,0,0,Check-Out,2016-05-05,88491,Aisha Khan
+City Hotel,0,0,2017,March,12,21,0,2,1,0.0,0,BB,PRT,Complementary,Direct,1,0,1,A,D,1,No Deposit,,45.0,0,Transient,0.0,0,1,Check-Out,2017-03-23,106009,Priya Nair
+City Hotel,0,2,2016,July,29,11,1,2,1,0.0,0,BB,PRT,Complementary,Corporate,1,2,6,A,A,0,No Deposit,,45.0,0,Transient,0.0,0,1,Check-Out,2016-07-14,79114,Sahil Bansal
+City Hotel,0,28,2017,April,17,29,0,1,2,0.0,0,SC,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,115.0,0,1,Check-Out,2017-04-30,110773,Rohan Mehta
+Resort Hotel,0,0,2015,September,36,2,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,E,0,No Deposit,88.0,,0,Transient,134.0,0,0,Check-Out,2015-09-03,1618,Riya Verma
+Resort Hotel,0,4,2017,February,6,7,0,3,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,154.0,0,Transient,35.0,0,0,Check-Out,2017-02-10,33028,Kritika Rao
+City Hotel,1,181,2016,October,42,11,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,234.0,,0,Transient-Party,120.0,0,0,No-Show,2016-10-11,58455,Arjun Sharma
+City Hotel,0,1,2016,November,48,22,0,3,2,0.0,0,SC,CHN,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,9.0,,0,Transient,100.0,0,1,Check-Out,2016-11-25,102347,Kritika Rao
+City Hotel,0,12,2016,October,44,25,0,3,1,0.0,0,BB,BIH,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,130.0,0,2,Check-Out,2016-10-28,100507,Aisha Khan
+City Hotel,1,125,2016,August,33,8,1,4,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,114.3,0,0,Canceled,2016-04-05,55346,Manish Yadav
+Resort Hotel,0,312,2017,March,10,5,2,5,2,0.0,0,HB,DEU,Groups,TA/TO,0,0,0,A,A,0,No Deposit,298.0,,0,Transient-Party,56.0,0,0,Check-Out,2017-03-12,34151,Neha Gupta
+City Hotel,0,42,2016,March,11,11,0,2,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,81.9,0,0,Check-Out,2016-03-13,85421,Amit Singh
+City Hotel,0,75,2015,September,38,19,2,2,2,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Check-Out,2015-09-23,43624,Kunal Joshi
+City Hotel,1,334,2015,September,38,16,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75570,Kunal Joshi
+City Hotel,1,188,2016,June,25,15,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,119.0,,39,Transient,130.0,0,0,Canceled,2016-01-18,53149,Manish Yadav
+City Hotel,1,108,2017,August,34,20,2,3,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,52.0,,0,Transient,71.1,0,0,Canceled,2017-07-11,73500,Neha Gupta
+City Hotel,0,42,2016,April,14,2,0,1,2,0.0,0,BB,CHN,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,117.9,0,0,Check-Out,2016-04-03,86555,Manish Yadav
+Resort Hotel,0,18,2016,July,27,1,1,2,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,129.0,0,1,Check-Out,2016-07-04,25711,Rohan Mehta
+City Hotel,1,205,2016,August,32,4,1,3,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,7.0,,0,Transient,80.75,0,0,Canceled,2016-01-14,55196,Aisha Khan
+Resort Hotel,0,7,2017,February,6,10,0,2,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,D,D,1,No Deposit,250.0,,0,Transient,66.0,0,2,Check-Out,2017-02-12,33136,Diya Kapoor
+City Hotel,1,274,2017,August,33,16,0,4,2,2.0,0,BB,BEL,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,179.1,0,1,Canceled,2016-11-16,73302,Sameer Shah
+City Hotel,0,67,2016,April,18,30,1,1,3,0.0,0,HB,ESP,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,9.0,,0,Transient,219.6,1,2,Check-Out,2016-05-02,88276,Sahil Bansal
+Resort Hotel,1,138,2016,April,18,25,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,E,E,0,Non Refund,,,0,Transient,65.0,0,0,Canceled,2016-01-18,5427,Sameer Shah
+Resort Hotel,0,155,2017,February,7,15,6,15,2,0.0,0,BB,NOR,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,96.0,,0,Transient,45.0,0,1,Check-Out,2017-03-08,34045,Sameer Shah
+City Hotel,0,4,2017,January,3,17,0,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.0,0,1,Check-Out,2017-01-20,104778,Arjun Sharma
+City Hotel,0,58,2016,September,40,29,0,1,2,1.0,0,BB,IRL,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,160.8,0,2,Check-Out,2016-09-30,98582,Arjun Sharma
+City Hotel,1,317,2016,September,37,9,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,58.0,,56,Transient,90.0,0,0,Canceled,2015-12-23,82323,Tanvi Jain
+Resort Hotel,0,94,2017,February,7,13,1,3,3,0.0,0,HB,GBR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,152.0,,0,Transient-Party,88.0,0,0,Check-Out,2017-02-17,33310,Kritika Rao
+City Hotel,1,19,2016,November,46,7,1,1,1,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,83.0,,0,Transient,150.0,0,0,Canceled,2016-10-24,60278,Priya Nair
+City Hotel,1,211,2016,May,21,20,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,6.0,,111,Transient,100.0,0,0,Canceled,2016-03-18,51566,Kritika Rao
+City Hotel,1,215,2017,June,26,28,0,4,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,110.0,0,0,Canceled,2016-11-25,71241,Kunal Joshi
+City Hotel,1,40,2016,April,15,6,0,1,2,2.0,0,BB,FRA,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,9.0,,0,Transient,189.9,0,0,Canceled,2016-03-12,49198,Sameer Shah
+City Hotel,0,29,2016,October,41,5,1,4,2,0.0,0,BB,POL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,161.0,0,2,Check-Out,2016-10-10,99286,Arjun Sharma
+Resort Hotel,0,31,2016,April,17,18,1,1,1,0.0,0,BB,DEU,Groups,Corporate,0,0,0,D,D,1,No Deposit,,,0,Transient,75.0,0,0,Check-Out,2016-04-20,23370,Sahil Bansal
+City Hotel,1,115,2017,August,34,25,0,2,3,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,8.0,,0,Transient,195.0,0,2,Canceled,2017-08-15,73620,Manish Yadav
+City Hotel,0,22,2017,March,11,15,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,D,D,0,No Deposit,,433.0,0,Transient,65.0,0,0,Check-Out,2017-03-16,107740,Tanvi Jain
+Resort Hotel,1,82,2016,February,7,7,2,0,2,0.0,0,BB,PRT,Groups,TA/TO,1,1,0,A,A,0,No Deposit,67.0,,0,Transient-Party,86.0,0,0,Canceled,2015-11-17,18456,Arjun Sharma
+City Hotel,1,57,2017,March,13,29,0,2,2,1.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,115.2,0,0,Canceled,2017-02-13,65319,Vivek Patel
+City Hotel,0,91,2016,July,30,20,0,2,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,126.0,0,2,Check-Out,2016-07-22,93562,Sameer Shah
+Resort Hotel,1,170,2017,June,26,26,1,5,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,C,C,3,No Deposit,314.0,,0,Transient,118.4,0,0,Canceled,2017-05-05,12488,Priya Nair
+City Hotel,0,241,2015,October,43,19,1,2,2,0.0,0,BB,USA,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,60.0,0,0,Check-Out,2015-10-22,74862,Aisha Khan
+Resort Hotel,0,307,2017,June,23,8,4,10,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,243.0,,0,Contract,98.4,0,0,Check-Out,2017-06-22,37654,Rohan Mehta
+City Hotel,1,89,2015,July,31,27,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,8.0,,0,Transient,76.5,0,0,Canceled,2015-07-06,40598,Priya Nair
+Resort Hotel,0,24,2016,June,26,25,2,1,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,241.0,,0,Transient,95.69,0,1,Check-Out,2016-06-28,25551,Amit Singh
+City Hotel,1,177,2017,August,35,31,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,52.0,,0,Transient,95.1,0,1,Canceled,2017-07-26,73792,Sameer Shah
+City Hotel,0,11,2015,August,33,15,2,1,2,0.0,0,HB,ITA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,17.0,,0,Transient-Party,94.5,0,0,Check-Out,2015-08-18,41534,Kunal Joshi
+Resort Hotel,0,81,2016,July,29,15,2,5,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,194.29,0,2,Check-Out,2016-07-22,26221,Diya Kapoor
+Resort Hotel,0,46,2016,December,53,30,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,5.0,,0,Transient,162.0,0,0,Check-Out,2017-01-01,31688,Manish Yadav
+City Hotel,0,1,2017,May,19,9,0,1,1,0.0,0,BB,PRT,Offline TA/TO,Corporate,0,0,0,A,A,0,No Deposit,191.0,,0,Transient,110.5,0,0,Check-Out,2017-05-10,111501,Tanvi Jain
+City Hotel,1,181,2017,May,21,25,0,2,2,0.0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,Non Refund,,,0,Transient,130.0,0,0,Canceled,2016-11-25,69157,Manish Yadav
+Resort Hotel,0,7,2017,May,18,6,0,1,3,1.0,0,HB,ESP,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,240.0,,0,Transient,200.7,1,1,Check-Out,2017-05-07,36106,Amit Singh
+City Hotel,0,43,2016,August,32,5,2,2,3,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,168.3,0,2,Check-Out,2016-08-09,94851,Kritika Rao
+City Hotel,0,229,2016,October,44,27,0,3,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,70.44,0,2,Check-Out,2016-10-30,100679,Diya Kapoor
+Resort Hotel,0,7,2017,April,15,11,0,1,1,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,E,1,No Deposit,240.0,,0,Transient-Party,105.0,0,1,Check-Out,2017-04-12,35139,Amit Singh
+City Hotel,1,199,2016,October,44,28,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,29.0,,0,Transient-Party,95.0,0,0,Canceled,2016-10-21,59528,Neha Gupta
+City Hotel,0,188,2015,August,35,23,2,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,8.0,,0,Transient,89.25,0,1,Check-Out,2015-08-28,77112,Kritika Rao
+City Hotel,0,26,2017,April,17,29,0,1,2,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient,115.0,0,1,Check-Out,2017-04-30,110731,Vivek Patel
+City Hotel,0,90,2017,May,21,21,2,1,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,A,A,0,No Deposit,14.0,,0,Transient,117.0,0,1,Check-Out,2017-05-24,112549,Neha Gupta
+City Hotel,1,186,2017,May,22,30,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,19.0,,0,Transient,130.0,0,0,Canceled,2016-11-25,69517,Vivek Patel
+Resort Hotel,0,56,2017,May,21,24,0,1,2,0.0,0,BB,DEU,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,,251.0,0,Transient,62.0,0,0,Check-Out,2017-05-25,36706,Manish Yadav
+Resort Hotel,0,20,2015,July,31,30,1,3,2,1.0,0,BB,BRA,Online TA,TA/TO,0,0,0,A,C,0,No Deposit,240.0,,0,Transient,193.0,0,1,Check-Out,2015-08-03,905,Kunal Joshi
+City Hotel,1,262,2015,July,28,6,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74426,Rohan Mehta
+Resort Hotel,1,14,2016,October,44,25,0,3,2,0.0,0,BB,FIN,Complementary,Direct,0,1,1,A,E,0,No Deposit,,,0,Transient,0.0,0,2,Canceled,2016-10-18,14574,Amit Singh
+City Hotel,1,443,2016,October,41,7,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,391,Transient,65.0,0,0,Canceled,2016-09-20,58280,Kunal Joshi
+City Hotel,0,97,2015,October,41,7,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Check-Out,2015-10-09,44620,Sameer Shah
+City Hotel,1,250,2016,September,40,26,1,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,3.0,,0,Transient,95.0,0,0,Canceled,2016-06-28,57640,Priya Nair
+City Hotel,1,72,2017,August,33,17,0,3,2,1.0,0,BB,FRA,Direct,Direct,0,0,0,B,B,0,No Deposit,14.0,,0,Transient,138.02,0,2,Canceled,2017-06-06,73349,Kunal Joshi
+Resort Hotel,1,112,2016,February,7,12,0,2,2,0.0,0,FB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,134.0,,0,Transient-Party,68.0,0,0,Canceled,2016-02-10,4123,Priya Nair
+City Hotel,1,312,2015,August,35,25,0,4,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-06,75855,Aisha Khan
+City Hotel,0,39,2015,August,33,14,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,6.0,,0,Transient-Party,109.0,0,0,Check-Out,2015-08-16,41323,Tanvi Jain
+City Hotel,1,302,2016,September,38,16,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,12.0,,70,Transient,100.0,0,0,Canceled,2016-01-28,57097,Priya Nair
+City Hotel,1,346,2015,September,40,28,1,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74667,Sahil Bansal
+City Hotel,0,9,2016,June,25,17,0,2,3,0.0,0,BB,JPN,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,177.0,0,2,Check-Out,2016-06-19,91357,Aisha Khan
+City Hotel,0,124,2016,June,27,30,0,2,2,0.0,0,BB,FIN,Online TA,TA/TO,0,0,0,B,B,1,No Deposit,9.0,,0,Transient-Party,97.55,0,0,Check-Out,2016-07-02,92264,Tanvi Jain
+Resort Hotel,1,54,2016,July,29,15,0,2,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,160.0,0,0,Canceled,2016-06-13,7077,Kritika Rao
+City Hotel,1,161,2017,May,18,5,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,30.0,,0,Transient,120.0,0,0,Canceled,2016-11-25,67702,Rohan Mehta
+City Hotel,0,3,2016,September,40,26,3,7,1,0.0,0,BB,PRT,Corporate,Corporate,1,4,46,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,0,Check-Out,2016-10-06,76804,Neha Gupta
+City Hotel,0,69,2015,October,44,25,2,1,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,58,Transient-Party,85.67,0,0,Check-Out,2015-10-28,45361,Tanvi Jain
+City Hotel,1,420,2016,September,36,3,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,35.0,,0,Transient,75.0,0,0,Canceled,2015-10-12,56432,Arjun Sharma
+City Hotel,1,327,2015,September,37,9,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,Non Refund,1.0,,0,Transient-Party,62.0,0,0,Canceled,2015-07-02,75522,Arjun Sharma
+City Hotel,0,7,2015,September,39,21,1,2,2,0.0,0,BB,ISR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Contract,136.0,0,2,Check-Out,2015-09-24,77774,Diya Kapoor
+City Hotel,0,122,2016,March,14,27,2,1,2,0.0,0,HB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,26.0,,0,Transient-Party,107.0,0,1,Check-Out,2016-03-30,86325,Amit Singh
+City Hotel,0,3,2016,April,18,25,1,0,1,0.0,0,BB,PRT,Corporate,Corporate,1,0,4,A,A,0,No Deposit,,40.0,0,Transient,65.0,0,0,Check-Out,2016-04-26,81703,Vivek Patel
+City Hotel,0,178,2016,August,35,23,0,3,3,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,9.0,,0,Transient,143.7,1,1,Check-Out,2016-08-26,96011,Riya Verma
+City Hotel,0,83,2016,March,14,28,1,4,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,16.0,,0,Transient,80.75,0,0,Check-Out,2016-04-02,86459,Neha Gupta
+City Hotel,1,279,2015,July,30,23,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,1,1,0,A,A,0,No Deposit,1.0,,0,Transient-Party,62.8,0,0,Canceled,2014-10-17,73893,Kunal Joshi
+Resort Hotel,1,162,2016,August,36,31,2,7,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,141.33,0,0,Canceled,2016-07-21,7977,Kritika Rao
+Resort Hotel,0,16,2016,December,52,24,2,1,2,0.0,0,BB,GBR,Direct,Direct,0,0,0,E,E,0,No Deposit,,,0,Transient,99.33,0,0,Check-Out,2016-12-27,31484,Rohan Mehta
+Resort Hotel,1,108,2016,March,13,21,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,48.0,0,1,Canceled,2016-01-04,4599,Kunal Joshi
+City Hotel,0,13,2016,October,42,10,1,2,2,0.0,0,BB,USA,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,332.0,0,Transient,159.0,0,0,Check-Out,2016-10-13,99467,Sameer Shah
+Resort Hotel,0,130,2016,August,34,20,4,10,2,0.0,0,BB,IRL,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,189.86,0,0,Check-Out,2016-09-03,27671,Rohan Mehta
+City Hotel,1,178,2016,August,34,18,0,3,1,1.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,124.5,0,0,Canceled,2016-03-04,55767,Aisha Khan
+Resort Hotel,0,217,2017,August,35,29,0,4,2,0.0,0,BB,CN,Offline TA/TO,TA/TO,0,0,0,A,A,2,No Deposit,410.0,,0,Transient,106.35,0,1,Check-Out,2017-09-02,40050,Neha Gupta
+Resort Hotel,0,73,2017,February,7,17,1,2,2,0.0,0,BB,GBR,Corporate,Corporate,0,0,0,A,A,0,No Deposit,,498.0,0,Transient-Party,40.0,0,0,Check-Out,2017-02-20,33443,Kritika Rao
+Resort Hotel,0,4,2016,November,48,26,2,1,1,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,43.0,0,1,Check-Out,2016-11-29,30731,Priya Nair
+Resort Hotel,1,126,2017,June,25,20,0,4,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,410.0,,0,Transient,63.0,0,0,Canceled,2017-02-14,12354,Kritika Rao
+City Hotel,0,7,2016,August,35,26,2,2,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,143.0,0,1,Check-Out,2016-08-30,96313,Arjun Sharma
+City Hotel,1,230,2016,July,31,26,0,3,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,B,B,1,No Deposit,9.0,,0,Transient-Party,95.75,0,1,Canceled,2016-01-25,54874,Arjun Sharma
+Resort Hotel,1,72,2016,February,6,6,2,1,2,0.0,0,HB,PRT,Groups,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient-Party,73.33,0,0,Canceled,2016-01-19,4004,Kritika Rao
+City Hotel,1,226,2017,June,24,16,1,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,20.0,,0,Transient,105.0,0,0,Canceled,2017-04-21,70499,Kunal Joshi
+Resort Hotel,0,63,2017,April,15,10,1,2,1,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,40.0,,0,Contract,63.95,0,0,Check-Out,2017-04-13,35168,Arjun Sharma
+City Hotel,0,127,2016,April,18,28,1,3,2,0.0,0,BB,USA,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,3.0,,0,Transient,90.0,0,0,Check-Out,2016-05-02,88253,Manish Yadav
+City Hotel,1,87,2017,April,15,15,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,1.0,,0,Transient,95.0,0,0,Canceled,2017-01-18,66323,Sameer Shah
+City Hotel,1,19,2016,September,39,23,1,2,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,159.0,0,1,Canceled,2016-09-20,57428,Neha Gupta
+City Hotel,0,21,2017,February,8,20,1,1,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,80.0,0,0,Check-Out,2017-02-22,106236,Sahil Bansal
+Resort Hotel,0,39,2015,November,46,11,1,4,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,66.64,0,0,Check-Out,2015-11-16,3131,Aisha Khan
+City Hotel,1,3,2015,September,36,5,2,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,1.0,,0,Transient-Party,0.0,0,0,Canceled,2015-09-03,42537,Amit Singh
+City Hotel,0,6,2016,September,39,22,0,1,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,159.0,0,3,Check-Out,2016-09-23,98063,Sahil Bansal
+City Hotel,1,169,2017,April,16,21,2,3,2,1.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.0,0,1,Canceled,2016-11-08,66679,Amit Singh
+Resort Hotel,1,95,2017,April,14,8,2,3,3,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,240.0,,0,Transient,150.0,0,0,Canceled,2017-01-19,10944,Priya Nair
+City Hotel,0,27,2017,February,6,5,2,2,1,0.0,0,BB,JPN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,68.0,0,1,Check-Out,2017-02-09,105540,Sahil Bansal
+Resort Hotel,1,155,2015,October,44,31,0,1,2,0.0,0,BB,PRT,Groups,Direct,0,0,0,A,A,0,Non Refund,,,0,Transient,36.0,0,0,Canceled,2015-10-26,2916,Kritika Rao
+City Hotel,0,14,2017,May,18,2,0,4,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,127.5,0,1,Check-Out,2017-05-06,111190,Vivek Patel
+Resort Hotel,0,0,2017,July,28,12,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,240.0,,0,Transient,8.0,0,0,Check-Out,2017-07-13,38369,Aisha Khan
+Resort Hotel,0,277,2015,October,41,6,2,5,2,0.0,0,HB,GBR,Groups,Direct,0,0,0,D,E,0,No Deposit,273.0,,0,Transient-Party,68.74,0,0,Check-Out,2015-10-13,17597,Priya Nair
+City Hotel,1,6,2015,September,37,11,1,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,127.0,0,0,Canceled,2015-09-07,43002,Manish Yadav
+City Hotel,1,46,2017,March,13,27,1,2,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,106.2,0,0,Canceled,2017-02-10,65294,Kunal Joshi
+Resort Hotel,1,77,2015,September,40,28,1,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,175.0,,0,Transient,74.6,0,1,Canceled,2015-07-25,2130,Riya Verma
+Resort Hotel,0,315,2015,September,40,29,2,7,2,0.0,0,HB,GBR,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,40.0,,0,Contract,71.26,0,0,Check-Out,2015-10-08,17465,Priya Nair
+City Hotel,0,263,2017,June,25,23,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,0,Transient-Party,105.0,0,1,Check-Out,2017-06-27,114839,Riya Verma
+City Hotel,1,112,2017,April,15,12,0,3,3,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,172.5,0,1,Canceled,2017-01-08,66081,Arjun Sharma
+City Hotel,0,3,2017,January,1,5,0,3,1,0.0,0,BB,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,90.1,0,1,Check-Out,2017-01-08,104288,Aisha Khan
+Resort Hotel,0,222,2017,June,25,23,2,3,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,241.0,,0,Transient,76.23,0,1,Check-Out,2017-06-28,37851,Kritika Rao
+City Hotel,1,128,2017,August,31,4,0,1,3,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,195.0,0,0,Canceled,2017-07-12,72821,Kunal Joshi
+City Hotel,1,40,2017,March,13,29,0,3,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,9.0,,0,Transient,158.0,0,0,Canceled,2017-03-19,65326,Arjun Sharma
+Resort Hotel,0,34,2016,March,11,8,2,5,2,0.0,0,FB,GBR,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,115.0,,0,Transient,83.33,0,1,Check-Out,2016-03-15,22102,Aisha Khan
+City Hotel,0,8,2015,October,44,29,1,3,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,94.24,0,0,Check-Out,2015-11-02,79811,Amit Singh
+City Hotel,1,196,2016,August,32,4,0,3,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,105.3,0,0,Canceled,2016-01-25,55192,Arjun Sharma
+Resort Hotel,0,3,2016,December,49,1,0,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,240.0,,0,Transient,48.0,0,1,Check-Out,2016-12-03,30839,Neha Gupta
+Resort Hotel,0,274,2017,August,33,16,2,4,2,1.0,0,HB,PRT,Direct,Direct,0,0,0,C,C,0,No Deposit,250.0,,0,Transient,224.1,1,3,Check-Out,2017-08-22,39672,Arjun Sharma
+Resort Hotel,0,6,2016,March,12,15,0,2,1,0.0,0,BB,,Corporate,Corporate,0,0,0,A,D,0,No Deposit,,,0,Transient,30.0,0,0,Check-Out,2016-03-17,22181,Sameer Shah
+City Hotel,0,5,2015,December,50,9,0,3,2,0.0,0,BB,FRA,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,28.0,,0,Transient-Party,58.0,0,1,Check-Out,2015-12-12,81566,Arjun Sharma
+Resort Hotel,0,0,2015,September,40,30,0,1,2,0.0,0,BB,DEU,Corporate,Corporate,0,0,0,G,G,0,No Deposit,110.0,,0,Transient,90.1,0,0,Check-Out,2015-10-01,2163,Riya Verma
+City Hotel,0,219,2017,June,25,18,2,3,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,117.0,0,1,Check-Out,2017-06-23,114580,Amit Singh
+City Hotel,0,115,2016,May,19,4,1,4,2,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient-Party,99.45,0,1,Check-Out,2016-05-09,88693,Priya Nair
+City Hotel,0,115,2016,April,15,8,0,2,1,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,1,No Deposit,1.0,,34,Transient-Party,57.5,0,0,Check-Out,2016-04-10,86946,Neha Gupta
+Resort Hotel,0,77,2015,September,40,28,2,5,2,0.0,0,HB,POL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,241.0,,0,Transient,78.1,0,2,Check-Out,2015-10-05,2141,Aisha Khan
+City Hotel,1,302,2016,October,41,6,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,3.0,,0,Transient,105.0,0,0,Canceled,2015-12-29,82490,Diya Kapoor
+Resort Hotel,0,1,2017,February,6,11,0,1,2,0.0,0,BB,PRT,Online TA,TA/TO,1,0,1,A,A,0,No Deposit,240.0,,0,Transient,48.0,0,1,Check-Out,2017-02-12,22628,Priya Nair
+Resort Hotel,0,129,2016,July,29,10,2,4,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,158.67,1,3,Check-Out,2016-07-16,26012,Riya Verma
+City Hotel,0,0,2017,June,22,1,0,1,2,0.0,0,SC,USA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,152.0,,0,Transient,92.98,0,0,Check-Out,2017-06-02,113148,Kritika Rao
+City Hotel,0,9,2016,June,25,17,1,2,2,1.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,138.0,,0,Transient,95.0,0,1,Check-Out,2016-06-20,91460,Vivek Patel
+City Hotel,0,28,2016,June,25,14,0,3,1,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,7.0,,0,Transient,108.42,0,1,Check-Out,2016-06-17,91221,Rohan Mehta
+City Hotel,0,10,2017,July,27,6,0,1,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,A,0,No Deposit,219.0,,0,Transient-Party,95.0,0,0,Check-Out,2017-07-07,115610,Kritika Rao
+Resort Hotel,0,295,2017,March,11,15,2,4,1,0.0,0,BB,DEU,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,314.0,,0,Transient,26.64,0,1,Check-Out,2017-03-21,34449,Riya Verma
+City Hotel,1,127,2016,April,18,28,1,3,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,3.0,,0,Transient-Party,80.0,0,0,Canceled,2016-02-10,50424,Sameer Shah
+Resort Hotel,1,22,2017,April,14,6,0,3,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,240.0,,0,Transient,115.0,0,0,Canceled,2017-03-15,10918,Kunal Joshi
+City Hotel,1,97,2017,March,11,14,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,31.0,,0,Transient,85.0,0,0,Canceled,2016-12-07,64739,Kritika Rao
+City Hotel,0,59,2015,November,48,28,2,4,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Contract,106.2,0,1,Check-Out,2015-12-04,81259,Amit Singh
+Resort Hotel,0,21,2015,November,46,12,0,3,1,0.0,0,BB,PRT,Corporate,Corporate,0,0,0,A,E,0,No Deposit,334.0,281.0,0,Transient-Party,40.0,0,0,Check-Out,2015-11-15,3150,Riya Verma
+City Hotel,1,95,2017,July,30,28,0,2,2,0.0,0,SC,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,125.0,0,1,Canceled,2017-04-24,72520,Kunal Joshi
+City Hotel,0,153,2016,July,30,23,2,2,2,0.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,108.45,0,1,Check-Out,2016-07-27,93869,Aisha Khan
+City Hotel,1,88,2017,August,32,12,2,5,3,0.0,0,BB,ROU,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,195.0,0,1,Canceled,2017-05-18,73142,Arjun Sharma
+City Hotel,0,3,2017,August,35,31,0,1,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,9.0,,0,Transient,140.0,0,1,Check-Out,2017-09-01,119338,Riya Verma
+City Hotel,1,31,2016,November,48,23,0,4,2,0.0,0,BB,MAR,Online TA,TA/TO,0,0,0,B,B,1,No Deposit,9.0,,0,Transient,77.86,0,2,Canceled,2016-11-11,60935,Rohan Mehta
+Resort Hotel,1,231,2015,July,28,7,2,6,2,0.0,0,BB,PRT,Online TA,TA/TO,0,1,0,A,A,0,No Deposit,240.0,,0,Transient,110.7,0,0,Canceled,2015-03-17,14976,Neha Gupta
+City Hotel,1,97,2017,March,9,4,2,1,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,97.2,0,1,Canceled,2016-12-25,64388,Diya Kapoor
+City Hotel,1,6,2017,February,7,14,0,1,2,1.0,0,BB,FRA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,128.0,0,0,Canceled,2017-02-08,63670,Neha Gupta
+City Hotel,0,34,2016,June,25,14,0,3,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,107.1,0,1,Check-Out,2016-06-17,91173,Manish Yadav
+City Hotel,0,1,2016,January,2,8,0,2,2,0.0,0,SC,BRA,Online TA,TA/TO,1,11,0,A,A,0,No Deposit,9.0,,0,Transient-Party,67.5,0,0,Check-Out,2016-01-10,80132,Neha Gupta
+City Hotel,0,13,2017,January,3,21,1,1,2,0.0,0,SC,ESP,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,9.0,,0,Transient,89.0,0,1,Check-Out,2017-01-23,104926,Neha Gupta
+City Hotel,1,14,2016,April,16,16,2,1,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,127.67,0,0,Canceled,2016-04-04,49734,Amit Singh
+City Hotel,0,4,2015,November,46,14,2,1,2,0.0,0,BB,FRA,Direct,Direct,0,0,0,B,B,0,No Deposit,14.0,,0,Transient,81.0,0,1,Check-Out,2015-11-17,80471,Kunal Joshi
+City Hotel,0,157,2017,August,31,1,0,4,2,0.0,0,BB,BEL,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,137.25,0,0,Check-Out,2017-08-05,117595,Priya Nair
+City Hotel,1,212,2016,October,42,9,2,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,7.0,,0,Transient,75.23,0,0,Canceled,2016-03-12,58351,Neha Gupta
+City Hotel,1,163,2016,June,24,5,2,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,171.0,,0,Transient,100.0,0,0,Canceled,2016-01-26,52502,Priya Nair
+City Hotel,0,116,2016,October,44,23,2,2,2,0.0,1,BB,KOR,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,9.0,,0,Transient,104.85,0,2,Check-Out,2016-10-27,100447,Neha Gupta
+Resort Hotel,1,106,2016,July,30,21,1,3,2,2.0,0,BB,ARG,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,240.0,,0,Transient,252.0,0,0,Canceled,2016-06-13,7196,Priya Nair
+Resort Hotel,1,72,2016,February,6,6,2,1,2,0.0,0,HB,PRT,Groups,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient-Party,73.33,0,0,Canceled,2016-01-19,4016,Manish Yadav
+Resort Hotel,0,30,2016,February,8,20,2,5,2,0.0,1,BB,GBR,Direct,Direct,0,0,0,A,E,1,No Deposit,,,0,Transient,48.0,0,1,Check-Out,2016-02-27,21452,Riya Verma
+Resort Hotel,0,222,2016,April,14,2,2,5,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,241.0,,0,Transient,42.19,0,2,Check-Out,2016-04-09,4914,Tanvi Jain
+City Hotel,0,263,2017,June,25,23,2,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,No Deposit,37.0,,0,Transient-Party,105.0,0,1,Check-Out,2017-06-27,114841,Manish Yadav
+City Hotel,1,9,2016,April,17,19,0,1,2,0.0,0,SC,FIN,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,89.0,0,0,Canceled,2016-04-15,49850,Kritika Rao
+City Hotel,1,317,2016,September,38,15,0,2,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,19.0,,0,Transient,120.0,0,0,Canceled,2016-02-09,56924,Amit Singh
+Resort Hotel,0,129,2016,March,14,28,2,5,3,0.0,0,BB,BEL,Direct,Direct,0,0,0,C,C,0,No Deposit,,,0,Transient,88.84,0,1,Check-Out,2016-04-04,22827,Neha Gupta
+City Hotel,1,240,2016,December,50,10,2,1,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,67.5,0,2,Canceled,2016-11-05,61539,Sameer Shah
+City Hotel,0,87,2016,May,22,22,2,5,2,0.0,0,SC,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,138.0,,0,Transient,85.0,0,0,Check-Out,2016-05-29,90018,Aisha Khan
+City Hotel,0,23,2016,March,12,18,0,1,2,1.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,9.0,,0,Transient-Party,109.0,0,2,Check-Out,2016-03-19,85714,Amit Singh
+Resort Hotel,0,0,2016,October,44,28,0,1,2,0.0,0,BB,ESP,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,68.0,0,0,Check-Out,2016-10-29,29566,Sameer Shah
+Resort Hotel,0,132,2016,July,30,18,1,3,2,2.0,0,BB,PRT,Online TA,TA/TO,0,0,0,C,C,1,No Deposit,196.0,,0,Transient,198.5,0,0,Check-Out,2016-07-22,26219,Arjun Sharma
+City Hotel,1,479,2017,August,32,9,0,3,2,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,229.0,,0,Transient-Party,112.67,0,0,Canceled,2017-07-27,73007,Kunal Joshi
+City Hotel,0,405,2017,July,27,4,0,2,2,0.0,0,HB,DEU,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,6.0,,0,Transient-Party,114.4,0,0,Check-Out,2017-07-06,115482,Vivek Patel
+Resort Hotel,0,29,2017,April,15,10,1,0,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,75.0,0,1,Check-Out,2017-04-11,35113,Aisha Khan
+City Hotel,1,188,2016,June,25,15,0,2,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,119.0,,39,Transient,130.0,0,0,Canceled,2016-01-18,53082,Diya Kapoor
+Resort Hotel,0,109,2015,November,46,13,0,1,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,F,F,0,No Deposit,,,0,Transient,80.8,1,2,Check-Out,2015-11-14,18298,Aisha Khan
+City Hotel,1,184,2017,August,35,28,1,2,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,E,E,0,No Deposit,14.0,,0,Transient,191.67,0,3,Canceled,2017-03-07,73726,Sameer Shah
+City Hotel,0,214,2017,May,22,28,2,4,2,0.0,0,SC,CHE,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,115.8,0,0,Check-Out,2017-06-03,113274,Priya Nair
+City Hotel,0,39,2017,August,34,20,2,0,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,310.0,,0,Transient,140.0,0,0,Check-Out,2017-08-22,118664,Aisha Khan
+City Hotel,0,28,2015,September,37,10,0,2,2,0.0,0,BB,CN,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,50.0,,0,Transient,97.0,0,0,Check-Out,2015-09-12,42882,Sameer Shah
+Resort Hotel,0,283,2015,October,42,12,2,5,2,0.0,0,BB,GBR,Groups,Direct,0,0,0,E,E,0,No Deposit,273.0,,0,Transient-Party,77.29,0,0,Check-Out,2015-10-19,17792,Neha Gupta
+City Hotel,0,57,2016,February,7,7,2,2,2,0.0,0,BB,BEL,Direct,Direct,0,0,0,B,B,0,No Deposit,,,0,Transient,65.0,0,1,Check-Out,2016-02-11,83843,Manish Yadav
+Resort Hotel,0,1,2015,July,27,4,1,1,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,114.5,0,0,Check-Out,2015-07-06,229,Kritika Rao
+City Hotel,1,107,2016,April,16,14,0,3,2,0.0,0,BB,IRL,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,102.3,0,1,Canceled,2016-03-08,49596,Priya Nair
+City Hotel,0,74,2016,March,13,20,2,2,2,0.0,0,BB,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,82.45,0,1,Check-Out,2016-03-24,48418,Sameer Shah
+City Hotel,0,133,2017,April,16,19,0,4,2,0.0,0,BB,ISL,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,390.0,,0,Transient-Party,124.0,0,0,Check-Out,2017-04-23,110266,Tanvi Jain
+City Hotel,0,0,2015,August,34,18,0,1,1,0.0,0,SC,AGO,Direct,Direct,0,0,0,D,D,0,No Deposit,,,0,Transient,100.0,0,0,Check-Out,2015-08-19,41640,Rohan Mehta
+City Hotel,1,277,2016,November,46,7,1,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,0,0,A,A,0,Non Refund,,,0,Transient,100.0,0,0,Canceled,2016-04-04,60288,Sahil Bansal
+City Hotel,0,2,2016,August,33,13,0,1,2,1.0,0,BB,PRT,Direct,Direct,0,0,0,D,D,0,No Deposit,14.0,,0,Transient,175.65,0,2,Check-Out,2016-08-14,95160,Riya Verma
+Resort Hotel,0,2,2017,May,19,7,2,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,240.0,,0,Transient,79.5,1,1,Check-Out,2017-05-09,36185,Arjun Sharma
+Resort Hotel,0,152,2016,September,40,26,2,5,1,0.0,0,HB,GBR,Groups,TA/TO,0,0,0,A,A,0,No Deposit,253.0,,0,Transient-Party,48.5,0,0,Check-Out,2016-10-03,28518,Riya Verma
+City Hotel,0,44,2016,June,26,19,1,0,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,C,0,No Deposit,7.0,,0,Transient,99.1,0,1,Check-Out,2016-06-20,91475,Sameer Shah
+Resort Hotel,0,178,2016,July,29,11,1,3,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,250.0,,0,Transient,102.9,1,0,Check-Out,2016-07-15,25984,Riya Verma
+City Hotel,1,71,2016,June,25,14,0,3,1,0.0,0,BB,PRT,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,236.0,,0,Transient,120.0,0,0,Canceled,2016-04-27,52998,Sahil Bansal
+City Hotel,0,13,2016,June,26,20,1,3,2,0.0,0,BB,HRV,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,131.0,0,1,Check-Out,2016-06-24,91689,Kunal Joshi
+City Hotel,0,1,2017,February,5,2,0,1,1,0.0,0,BB,PRT,Direct,Direct,1,1,6,E,E,1,No Deposit,,,0,Transient,110.0,0,0,Check-Out,2017-02-03,84854,Neha Gupta
+Resort Hotel,0,1,2016,May,19,2,1,0,2,0.0,0,HB,PRT,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,240.0,,0,Transient,90.0,0,0,Check-Out,2016-05-03,23791,Aisha Khan
+City Hotel,0,130,2016,September,40,29,0,3,2,0.0,0,BB,NLD,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,9.0,,0,Transient,139.5,0,2,Check-Out,2016-10-02,98705,Amit Singh
+City Hotel,1,265,2015,July,28,9,0,2,2,0.0,0,BB,PRT,Groups,TA/TO,0,1,0,A,A,0,No Deposit,1.0,,0,Contract,62.0,0,0,Canceled,2015-01-01,74029,Arjun Sharma
+City Hotel,1,10,2017,February,7,16,0,3,2,0.0,0,SC,ITA,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,9.0,,0,Transient,98.0,0,0,Canceled,2017-02-06,63733,Priya Nair
+Resort Hotel,1,101,2015,September,38,18,1,2,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,83.0,0,0,Canceled,2015-08-18,1961,Diya Kapoor
+City Hotel,0,97,2015,December,53,28,1,3,2,0.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,15.0,,0,Transient,53.38,0,0,Check-Out,2016-01-01,82620,Priya Nair
+City Hotel,0,48,2017,February,8,22,0,2,1,0.0,0,BB,ESP,Groups,TA/TO,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,65.0,0,1,Check-Out,2017-02-24,106392,Aisha Khan
+Resort Hotel,0,69,2017,July,28,14,2,5,2,0.0,0,BB,ESP,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,177.0,,0,Transient,160.0,1,0,Check-Out,2017-07-21,38637,Manish Yadav
+City Hotel,1,184,2016,October,42,12,0,1,2,0.0,0,SC,FRA,Online TA,TA/TO,0,0,0,A,B,1,No Deposit,9.0,,0,Transient,98.1,0,0,Canceled,2016-10-07,58481,Manish Yadav
+City Hotel,0,67,2015,December,49,5,2,1,2,1.0,0,SC,PRT,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,8.0,,0,Transient,112.9,0,3,Check-Out,2015-12-08,81386,Aisha Khan
+Resort Hotel,1,38,2015,August,33,10,2,5,2,0.0,0,BB,PRT,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,240.0,,0,Transient,185.57,0,2,Canceled,2015-07-14,1126,Amit Singh
+Resort Hotel,0,107,2015,August,33,10,1,2,2,0.0,0,BB,PRT,Direct,Direct,0,0,0,A,A,0,No Deposit,,,0,Transient-Party,134.0,0,1,Check-Out,2015-08-13,16155,Neha Gupta
+City Hotel,1,19,2016,December,53,30,0,1,2,0.0,0,BB,GBR,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,9.0,,0,Transient,148.0,0,0,Canceled,2016-12-15,62100,Kunal Joshi
+City Hotel,0,78,2017,May,22,28,2,2,2,0.0,0,BB,GBR,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,22.0,,0,Transient,89.1,0,1,Check-Out,2017-06-01,113124,Diya Kapoor
